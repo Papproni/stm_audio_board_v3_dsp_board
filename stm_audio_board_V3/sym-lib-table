@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "stm_audio_board_V2-altium-import")(type "KiCad")(uri "${KIPRJMOD}/stm_audio_board_V2-altium-import.kicad_sym")(options "")(descr ""))
   (lib (name "linear_power")(type "KiCad")(uri "${KIPRJMOD}/linear_power.kicad_sym")(options "")(descr ""))
+  (lib (name "audio_board_v3_libs")(type "KiCad")(uri "${KIPRJMOD}/audio_board_v3_libs.kicad_sym")(options "")(descr ""))
 )

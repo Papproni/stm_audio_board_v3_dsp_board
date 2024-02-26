@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stm_audio_board_footprints")(type "KiCad")(uri "${KIPRJMOD}/stm_audio_board_footprints.pretty")(options "")(descr ""))
+)
