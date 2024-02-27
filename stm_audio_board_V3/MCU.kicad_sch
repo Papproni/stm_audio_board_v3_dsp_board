@@ -3745,7 +3745,7 @@
     (property "Value" "IS42S16100H-7TL" (at 96.52 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO:TSSOP-50_4.4x12.5mm_P0.5mm" (at 84.455 93.98 0)
+    (property "Footprint" "Library:TSOP-2-50-new" (at 84.455 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://jlcpcb.com/partdetail/161773-IS42S16100H7TL/C150435" (at 95.25 92.075 0)
