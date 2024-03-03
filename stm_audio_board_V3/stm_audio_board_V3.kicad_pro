@@ -419,7 +419,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stm_audio_board_V2_1.kicad_pro",
+    "filename": "stm_audio_board_V3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -550,6 +550,10 @@
     [
       "afc0a1ce-c144-442c-b6c8-cbcc7c8b2565",
       "Footswitch"
+    ],
+    [
+      "bf8ef258-4ec0-4b8f-b717-0a82eb791e29",
+      "Audio_Connectors"
     ]
   ],
   "text_variables": {

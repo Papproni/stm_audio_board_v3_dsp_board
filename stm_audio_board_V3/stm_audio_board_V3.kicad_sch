@@ -2,7 +2,7 @@
 
   (uuid 6997cf63-2615-4e49-9471-e7da1b6bae71)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
   )
@@ -172,6 +172,23 @@
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 22.86 198.12) (size 60.96 35.56) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bf8ef258-4ec0-4b8f-b717-0a82eb791e29)
+    (property "Sheetname" "Audio_Connectors" (at 22.86 197.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Audio_Connectors.kicad_sch" (at 22.86 234.2646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71" (page "13"))
       )
     )
   )
