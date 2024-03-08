@@ -524,7 +524,7 @@
       "Output_stage"
     ],
     [
-      "f3a016e9-328b-49a9-9257-9482800e0ff5",
+      "312e18a4-8c74-4837-bf87-a5efa7da334e",
       "potentiometers"
     ],
     [
@@ -548,12 +548,20 @@
       "TapTempo (Ext_INT)"
     ],
     [
-      "afc0a1ce-c144-442c-b6c8-cbcc7c8b2565",
+      "533d5af8-9076-46fd-9be3-1e81aa1ebbdf",
       "Footswitch"
     ],
     [
       "bf8ef258-4ec0-4b8f-b717-0a82eb791e29",
       "Audio_Connectors"
+    ],
+    [
+      "027e1bfd-1867-4598-8450-c55193b376a5",
+      "Display_Interface"
+    ],
+    [
+      "098a4d98-3407-42ed-a6c9-9db40672afa5",
+      "MCU_Display"
     ]
   ],
   "text_variables": {

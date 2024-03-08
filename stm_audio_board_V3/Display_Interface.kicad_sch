@@ -1,0 +1,45 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6d0f255d-3593-49bc-b6df-b0355f82a2f4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 40.64 41.91) (size 57.15 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 098a4d98-3407-42ed-a6c9-9db40672afa5)
+    (property "Sheetname" "MCU_Display" (at 40.64 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU_Display.kicad_sch" (at 40.64 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/027e1bfd-1867-4598-8450-c55193b376a5" (page "15"))
+      )
+    )
+  )
+
+  (sheet (at 40.64 76.2) (size 44.45 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 312e18a4-8c74-4837-bf87-a5efa7da334e)
+    (property "Sheetname" "potentiometers" (at 40.64 75.4884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "potentiometers.kicad_sch" (at 40.64 97.1046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71" (page "6"))
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/027e1bfd-1867-4598-8450-c55193b376a5" (page "6"))
+      )
+    )
+  )
+)
