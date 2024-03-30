@@ -56,34 +56,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.32258,
+          "gap": 0.254,
           "via_gap": 0.0,
-          "width": 0.0762
-        },
-        {
-          "gap": 0.3,
-          "via_gap": 0.0,
-          "width": 0.127
-        },
-        {
-          "gap": 0.3,
-          "via_gap": 0.3,
-          "width": 0.254
-        },
-        {
-          "gap": 0.3,
-          "via_gap": 0.3,
-          "width": 0.381
-        },
-        {
-          "gap": 0.3,
-          "via_gap": 0.3,
-          "width": 0.508
-        },
-        {
-          "gap": 0.3,
-          "via_gap": 0.3,
-          "width": 0.762
+          "width": 0.31496
         }
       ],
       "drc_exclusions": [],
@@ -499,7 +474,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../../../Users/pappr/OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem/Tanulas/___BME 10. félév/Dipterv 1/CAD/stm_audio_board_V3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
