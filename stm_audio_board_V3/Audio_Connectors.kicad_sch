@@ -132,6 +132,46 @@
         )
       )
     )
+    (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (at 0 -6.35 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "GND" (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "GND_0_1"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 -1.27)
+            (xy 1.27 -1.27)
+            (xy 0 -2.54)
+            (xy -1.27 -1.27)
+            (xy 0 -1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "GND_1_1"
+        (pin power_in line (at 0 0 270) (length 0) hide
+          (name "GND" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
   )
 
 
@@ -305,6 +345,74 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 45.72 45.72 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6d7899d9-013b-42d4-899c-503aa145d428)
+    (property "Reference" "#PWR02" (at 45.72 52.07 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 45.72 50.8 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 45.72 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 45.72 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 00e22e0f-7097-447a-9d83-5fed45b23c81))
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
+          (reference "#PWR02") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
+          (reference "#PWR01") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/f20dc640-ad21-4977-8df1-611625087c69"
+          (reference "#PWR013") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/bf8ef258-4ec0-4b8f-b717-0a82eb791e29"
+          (reference "#PWR0249") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 48.26 154.94 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 7572b0fe-d754-49b3-859f-0c89017f732a)
+    (property "Reference" "#PWR02" (at 48.26 161.29 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 48.26 160.02 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 48.26 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 48.26 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5c005eeb-07b2-4321-84ba-a688ff9d5381))
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
+          (reference "#PWR02") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
+          (reference "#PWR01") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/f20dc640-ad21-4977-8df1-611625087c69"
+          (reference "#PWR013") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/bf8ef258-4ec0-4b8f-b717-0a82eb791e29"
+          (reference "#PWR0254") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector_Audio:AudioJack3_Ground_SwitchTR") (at 43.18 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b282254d-d708-4ee7-90c9-485362d4adfc)
@@ -338,6 +446,40 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 48.26 105.41 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid b761429c-4a2a-4c16-a7f2-c78a70171f32)
+    (property "Reference" "#PWR02" (at 48.26 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 48.26 110.49 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 48.26 105.41 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 48.26 105.41 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c47838a6-b1bc-4d91-a1e3-8a659df68d81))
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
+          (reference "#PWR02") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
+          (reference "#PWR01") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/f20dc640-ad21-4977-8df1-611625087c69"
+          (reference "#PWR013") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/bf8ef258-4ec0-4b8f-b717-0a82eb791e29"
+          (reference "#PWR0252") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector_Audio:AudioJack3_Ground_SwitchTR") (at 90.17 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c8008744-109e-4491-96a5-7f61e1492134)
@@ -366,6 +508,40 @@
         )
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/bf8ef258-4ec0-4b8f-b717-0a82eb791e29"
           (reference "J13") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 48.26 129.54 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid dbcf6109-af6a-428f-a03d-c63cb3a33e4d)
+    (property "Reference" "#PWR02" (at 48.26 135.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 48.26 134.62 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 48.26 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 48.26 129.54 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 72fa4f22-6c19-4869-bc75-e671131b3d1f))
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
+          (reference "#PWR02") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
+          (reference "#PWR01") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/f20dc640-ad21-4977-8df1-611625087c69"
+          (reference "#PWR013") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/bf8ef258-4ec0-4b8f-b717-0a82eb791e29"
+          (reference "#PWR0253") (unit 1)
         )
       )
     )
