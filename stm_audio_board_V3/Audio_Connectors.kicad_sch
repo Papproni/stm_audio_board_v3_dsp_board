@@ -261,12 +261,15 @@
     (property "Datasheet" "~" (at 92.71 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid 830acba0-b669-4207-9035-506eb1f3b375))
-    (pin "R" (uuid 4734a636-b412-4141-8921-e4c926539d4f))
-    (pin "RN" (uuid a387ba63-e5e7-4181-b66a-df8b85ccbc88))
-    (pin "S" (uuid 4306bf91-bc0b-4ccc-9ee7-4238ea629bb7))
-    (pin "T" (uuid 27476ad7-cff4-4e8a-bb46-13b603bdad40))
-    (pin "TN" (uuid 3b6fe45c-031e-4013-9f50-7de06ab94351))
+    (property "LCSC Part" "C309275" (at 92.71 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid b219c0ae-9e1e-4625-b106-599d0c3d41de))
+    (pin "R" (uuid 2f5abce5-0117-41c4-8221-d2f804380230))
+    (pin "RN" (uuid 9e0199ad-6e47-4dc7-b4f8-ff1b2a23d2a8))
+    (pin "S" (uuid 861dc291-f877-47bf-b8d7-faab07d8b3b9))
+    (pin "T" (uuid 3eb8c4d0-2e15-4073-b369-6ee8c8ae9df2))
+    (pin "TN" (uuid 75a65dff-45b1-4a15-b78d-1c63da30dae9))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -294,12 +297,15 @@
     (property "Datasheet" "~" (at 92.71 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid 380fdd59-0c03-4006-b85f-dcf9cd33e21a))
-    (pin "R" (uuid f6e33e6b-75b1-481f-8483-6cc2f21edc64))
-    (pin "RN" (uuid 16b192b4-a47d-4469-a14b-81a4b27468ee))
-    (pin "S" (uuid c9a93b0e-e741-4c83-afc2-a8fa427f7573))
-    (pin "T" (uuid bbefcfff-7dab-412a-a5e0-32433ac44d34))
-    (pin "TN" (uuid a9140929-c7a3-41bb-9a5b-5f157db90cd1))
+    (property "LCSC Part" "C309275" (at 92.71 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid 271150ca-d6fb-4045-b3d0-5e646846bbd3))
+    (pin "R" (uuid 9cfa1973-9594-4340-bc9f-665becb764e8))
+    (pin "RN" (uuid af4acb00-5443-4464-b2e2-746584d14bd1))
+    (pin "S" (uuid 24b841bd-9393-4bb6-b3d0-95a72023f837))
+    (pin "T" (uuid adf76265-dec4-4599-bab9-2e050687e10e))
+    (pin "TN" (uuid 88782d76-d9f0-45c0-864c-bd09f496bc88))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -327,12 +333,15 @@
     (property "Datasheet" "~" (at 40.64 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid dc6150d4-9203-4739-83ca-84d8ae7711f4))
-    (pin "R" (uuid fa1e07e1-930c-471f-afac-d67b9459eadf))
-    (pin "RN" (uuid 5b444bb2-97a9-4905-a7dd-22babeb46893))
-    (pin "S" (uuid 33c3953d-bc74-46ab-b5de-94220e4b2a18))
-    (pin "T" (uuid adcf3817-3b29-41ca-836a-a237f00b63ce))
-    (pin "TN" (uuid 1e4ab70f-4f38-4684-9f92-47d3ba4d9f9d))
+    (property "LCSC Part" "C309275" (at 40.64 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid f609f8de-a74c-4cb9-8fe1-7d4b9926684a))
+    (pin "R" (uuid 5235dab4-9b99-41e0-98b0-f288cd3d76c6))
+    (pin "RN" (uuid 62bc9c05-349c-449d-9645-59f04cf1abac))
+    (pin "S" (uuid d8c905e9-07ff-4119-8eac-6768213bb716))
+    (pin "T" (uuid 170056c2-8926-4607-8c55-d59c076847c7))
+    (pin "TN" (uuid 64cfd7ff-8881-400c-895e-ea7da5886ed1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -360,7 +369,7 @@
     (property "Datasheet" "" (at 45.72 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 00e22e0f-7097-447a-9d83-5fed45b23c81))
+    (pin "1" (uuid 6670791f-ac1e-4a95-a9ed-996dbd12cc5e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -394,7 +403,7 @@
     (property "Datasheet" "" (at 48.26 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c005eeb-07b2-4321-84ba-a688ff9d5381))
+    (pin "1" (uuid 161ac732-a934-4214-9af6-645847fe58b7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -428,12 +437,15 @@
     (property "Datasheet" "~" (at 43.18 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid 8ff0002e-4d6f-472a-9f36-5ee2b17b8006))
-    (pin "R" (uuid 259465ff-c19e-4490-902d-fca211b7137a))
-    (pin "RN" (uuid 4e2d2227-108f-436a-9dd1-5d9f349e3b96))
-    (pin "S" (uuid e12d7bc5-de7f-4428-b7f4-f0e03f1e44f9))
-    (pin "T" (uuid b629f885-63fb-48ab-8492-f64e9d45e4f5))
-    (pin "TN" (uuid e5393ad7-0376-4c4f-b636-e552f12bde27))
+    (property "LCSC Part" "C309275" (at 43.18 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid 21eeb304-1b69-454e-a9e7-1634d10226ae))
+    (pin "R" (uuid 13fa3fac-8211-4157-83b0-f95214be9585))
+    (pin "RN" (uuid 65658300-1b91-402d-b483-2d9f5d3a1a9c))
+    (pin "S" (uuid ae3278de-68ad-4960-bb97-9d31710403e8))
+    (pin "T" (uuid 83126eb9-1f58-428d-b871-28582a88c694))
+    (pin "TN" (uuid 7b1fae0b-e531-4086-86a9-baa7727b7715))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -461,7 +473,7 @@
     (property "Datasheet" "" (at 48.26 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c47838a6-b1bc-4d91-a1e3-8a659df68d81))
+    (pin "1" (uuid 229c2ddd-e74a-40c4-868a-88bef26eb5fd))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -495,12 +507,15 @@
     (property "Datasheet" "~" (at 90.17 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid f4f6dae5-c9ab-4bb8-8822-d6359da75ca0))
-    (pin "R" (uuid 66c3c640-9a34-4a76-8b84-b3ebe766db98))
-    (pin "RN" (uuid 3338e92b-d717-40d4-94a1-82652f1bb71a))
-    (pin "S" (uuid 4ef2fb55-eb2f-4f85-a893-09ab312ded9c))
-    (pin "T" (uuid 25fa7786-349a-476a-a6d1-1d28ae53045e))
-    (pin "TN" (uuid 0207a101-51c2-4b9b-a5f8-1b26ee8146ce))
+    (property "LCSC Part" "C309275" (at 90.17 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid 5c2dd2e9-cdc4-466b-8115-c5efb858a347))
+    (pin "R" (uuid 52b186f5-2230-4326-9221-319ee7ab7fc4))
+    (pin "RN" (uuid 19e21c26-39e1-4354-aae1-7713eb13fceb))
+    (pin "S" (uuid ee7a85a0-5883-491e-ad5f-6c066e22050b))
+    (pin "T" (uuid f4357b6c-988a-460d-b203-003e097d78e3))
+    (pin "TN" (uuid 3ca08ffa-c6aa-4055-abd6-49812c2144ce))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -528,7 +543,7 @@
     (property "Datasheet" "" (at 48.26 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72fa4f22-6c19-4869-bc75-e671131b3d1f))
+    (pin "1" (uuid deeb4d30-a85f-463b-a6cd-391de45af178))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -562,12 +577,15 @@
     (property "Datasheet" "~" (at 92.71 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid f3a401e1-2d3c-4bfd-b546-170e300bf5e6))
-    (pin "R" (uuid b3147924-2e87-46a2-b5ca-696def36317c))
-    (pin "RN" (uuid 78e03fbf-ecf0-43f4-9c87-bc858ed3fef6))
-    (pin "S" (uuid b2b84dbe-5ab4-43c1-ba43-fbf6f49129c1))
-    (pin "T" (uuid 73375b58-57bd-4979-b8a0-4112cdfeca4b))
-    (pin "TN" (uuid a93ba6a5-7a2e-42c6-83fa-fcf35a762def))
+    (property "LCSC Part" "C309275" (at 92.71 121.92 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid 1f8fa381-a48b-4945-8980-de3f8c5131a0))
+    (pin "R" (uuid db6e59a3-3a55-4ea4-9f68-f0cc789365c5))
+    (pin "RN" (uuid 04df8414-f22b-4707-86b9-8313f52ffe1e))
+    (pin "S" (uuid eb011f85-4484-4c6b-ab88-08b79ef60302))
+    (pin "T" (uuid ee86e53a-da8b-43da-a129-f2c72e5dc3d7))
+    (pin "TN" (uuid b7c73904-3ba6-441e-acc0-543f624207ae))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -595,12 +613,15 @@
     (property "Datasheet" "~" (at 43.18 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid a5986519-2313-43a0-968f-4cc6899203c1))
-    (pin "R" (uuid 735f60f4-c126-4bfc-9f1c-8d1c3784fc20))
-    (pin "RN" (uuid bfb91dfa-89ad-4983-9efa-eb5d5f72c0b9))
-    (pin "S" (uuid 513bf9eb-41f6-4982-acfb-408873f24d9a))
-    (pin "T" (uuid 78895cf1-f1a2-46e1-8063-0676a6a56c83))
-    (pin "TN" (uuid 85b8f340-d640-456b-aabf-88f66d79c7ec))
+    (property "LCSC Part" "C309275" (at 43.18 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid ed4253b7-1983-4a22-83fb-c5d1eacdcfca))
+    (pin "R" (uuid 8377c7a1-f970-405e-ad44-ae4cd7513bbe))
+    (pin "RN" (uuid 77f2c77a-4394-4463-bd00-3de192a67adb))
+    (pin "S" (uuid e04dc7de-99ca-4a31-bd85-cad8f2eda12a))
+    (pin "T" (uuid 2abe3e8b-91b4-4929-859a-ccc8fcdd69b9))
+    (pin "TN" (uuid c4662e68-1aa0-460b-ab89-f24b6e5d2e39))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -628,12 +649,15 @@
     (property "Datasheet" "~" (at 43.18 147.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "G" (uuid 25c47241-3a30-432a-beb4-69c639dd2b86))
-    (pin "R" (uuid dbf2afb9-ac6c-48a7-a8cb-2795d1f7d1eb))
-    (pin "RN" (uuid c04f5d11-0f51-49bd-9c76-c0f1e1d633e9))
-    (pin "S" (uuid 1ac3d583-3855-4964-9e5a-732eb3724805))
-    (pin "T" (uuid ea3476df-3dda-4d76-a41f-9ae3eac4f617))
-    (pin "TN" (uuid 2d4da389-d42b-499a-ab99-372da37def9a))
+    (property "LCSC Part" "C309275" (at 43.18 147.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "G" (uuid 6da4c224-118f-4ac9-a1fe-ca6f79b918f6))
+    (pin "R" (uuid b35b0602-8338-4ac0-a752-5acd5223ecd5))
+    (pin "RN" (uuid a95c28a3-bf0b-445e-a1c7-f5d98323cb22))
+    (pin "S" (uuid 81c29f7d-4468-44db-a9f9-bfec956a22c4))
+    (pin "T" (uuid ffd9bca0-1fa0-447e-8a55-54e994dc5c26))
+    (pin "TN" (uuid d02a254f-b228-4518-9b2d-6eb5c83f6611))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"

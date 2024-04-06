@@ -384,10 +384,13 @@
     (property "Datasheet" "~" (at 137.16 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f85cd9e-8b9d-46bd-a25a-8618c74dc979))
-    (pin "2" (uuid e46ef3bd-8491-4dc4-9474-d7eb763c66c0))
-    (pin "3" (uuid 79de7e1f-9eee-46e5-9a6e-7c5e95543612))
-    (pin "4" (uuid 1a18a734-9023-475d-9556-78c4b67c28f2))
+    (property "LCSC Part" "" (at 137.16 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 139c48be-8305-4880-ace3-37ef1c4068e0))
+    (pin "2" (uuid 143194e5-1780-4691-b4ba-2eaa73dffd47))
+    (pin "3" (uuid 53b1a78a-0648-4014-8987-8bb12b9d7430))
+    (pin "4" (uuid 3f8bb065-c9fa-46cc-a515-a82bb122cd43))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -418,7 +421,10 @@
     (property "Datasheet" "~" (at 102.87 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 735b95b7-5636-4609-8f42-54671d9000df))
+    (property "LCSC Part" "" (at 102.87 48.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 18f0d2a1-c86e-42d4-8471-52498f30b7e3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -449,7 +455,7 @@
     (property "Datasheet" "" (at 146.05 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d2927fba-6873-4f40-8ada-21c34be0366c))
+    (pin "1" (uuid 9b3848fd-f8ea-4e5a-926c-755fd726d5a7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -480,7 +486,10 @@
     (property "Datasheet" "~" (at 102.87 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7ef06c1-c9cf-429a-84dd-b7cd5daaf151))
+    (property "LCSC Part" "" (at 102.87 39.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 37c0a7ee-cd77-4839-a93e-45829adcdb10))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -511,7 +520,10 @@
     (property "Datasheet" "~" (at 102.87 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2bbc2eda-5a6f-4504-842a-f184b2a5a092))
+    (property "LCSC Part" "" (at 102.87 67.31 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 56b7f912-0930-4897-bd6a-301609242f86))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -542,7 +554,10 @@
     (property "Datasheet" "~" (at 102.87 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 09f28b56-f1a0-4850-9ced-94d801daf868))
+    (property "LCSC Part" "" (at 102.87 58.42 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c176a85a-4431-4df8-97a9-81ce468a00db))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -573,7 +588,7 @@
     (property "Datasheet" "" (at 181.61 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2291b6e6-a663-431c-99f8-9a3692b8a680))
+    (pin "1" (uuid a135f0a8-5e7e-439f-b2a5-b8bf94bcfeb3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -604,7 +619,7 @@
     (property "Datasheet" "" (at 146.05 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d4cabaf-ef9c-4d97-adbe-9391302308e8))
+    (pin "1" (uuid 76297e09-e8af-46a4-93ac-ec8bb5e10a9f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -629,7 +644,10 @@
     (property "Datasheet" "~" (at 102.87 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ef701b1-a694-4eba-943c-57400dfdce29))
+    (property "LCSC Part" "" (at 102.87 76.2 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f001226c-0f69-4717-90a8-58e0d1feff63))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -660,10 +678,13 @@
     (property "Datasheet" "~" (at 172.72 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 257291c5-b59e-4bad-8c8b-1a0505748085))
-    (pin "2" (uuid 5206a049-461c-4cfc-8f0a-4f7acc8ba620))
-    (pin "3" (uuid 0f64f06c-d570-47e3-bb6b-c14ad7be3e74))
-    (pin "4" (uuid 2dcc9e21-d5ef-40f6-aef3-f47e344d7605))
+    (property "LCSC Part" "" (at 172.72 39.37 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2e71159b-0201-4061-8c28-a31fd74f6721))
+    (pin "2" (uuid b7aa4048-45a9-40e3-84f4-0dfff9ce353c))
+    (pin "3" (uuid 7a080f27-587a-40d1-9993-92ca367e8c5a))
+    (pin "4" (uuid 8c7d77d1-8337-411c-a86f-22d29c86c560))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -694,7 +715,7 @@
     (property "Datasheet" "" (at 181.61 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef2fafdd-10d2-4ac3-8b0a-8102e5553c2f))
+    (pin "1" (uuid 5726e16e-9b88-48bf-932c-037dabfb3748))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/6424856c-1346-4018-a943-0d16008c9545"
@@ -719,7 +740,10 @@
     (property "Datasheet" "~" (at 102.87 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e7a9a80d-f03f-4780-9221-abff382f2872))
+    (property "LCSC Part" "" (at 102.87 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 32f1f12c-abf8-45e8-acbf-9abca4af7879))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -750,7 +774,7 @@
     (property "Datasheet" "" (at 113.03 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 10bf361a-1dcb-4202-8a37-e43cdb764d10))
+    (pin "1" (uuid ea8bfc14-4489-4511-b505-2729bf0cc8e0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"

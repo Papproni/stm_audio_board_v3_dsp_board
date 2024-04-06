@@ -3916,7 +3916,7 @@
     (property "Datasheet" "~" (at 49.53 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4184cc26-67c2-46dd-961a-3b9461c278f5))
+    (pin "1" (uuid 80840649-e66f-478e-82c1-abdccf4d6b31))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -3941,8 +3941,14 @@
     (property "Datasheet" "~" (at 316.23 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 83a53bdf-7dea-4b34-8aba-e8ed665adf1d))
-    (pin "2" (uuid 0846a4da-7229-42e7-b560-6400051e6e5d))
+    (property "JLCPCB" "C13585" (at 316.23 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 316.23 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c932e8dc-63a8-4622-9991-c6c88b08927a))
+    (pin "2" (uuid 5a62f29c-c817-4418-a1f9-cb295643c164))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -3970,7 +3976,7 @@
     (property "Datasheet" "" (at 186.69 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 869fc9db-7322-4bbb-84e2-4ec19a74c73e))
+    (pin "1" (uuid e2b79dfc-f3dd-4688-844b-30067f5cf79f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -3998,7 +4004,7 @@
     (property "Datasheet" "" (at 359.41 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef6f5dd6-fba0-4dba-8b24-b130108df37c))
+    (pin "1" (uuid 6cf697e5-4ff2-402e-ba9d-37e17628de53))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4026,8 +4032,14 @@
     (property "Datasheet" "~" (at 109.22 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 895b824d-480c-4482-b614-e26d2af5c884))
-    (pin "2" (uuid 94dee54b-11d6-4805-b4bf-b6216b540aa2))
+    (property "JLCPCB" "C2831718" (at 109.22 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 109.22 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a4819863-d22e-44d7-88f1-70b2556fafff))
+    (pin "2" (uuid 43469b20-0e2f-4bbd-a083-684c1030d836))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4058,8 +4070,11 @@
     (property "JLCPCB" "C242335" (at 67.31 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f29737b9-7dcf-4239-8c2f-bd024aa542da))
-    (pin "2" (uuid b84a93a4-4c44-4c43-9d13-d8292b57a98a))
+    (property "LCSC Part" "C242335" (at 67.31 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 50299739-48ea-4e23-b97d-3f93c8d4dd91))
+    (pin "2" (uuid 52c082a7-ff4c-43c8-a55b-849ac81b31c3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4075,7 +4090,7 @@
     (property "Reference" "C3" (at 321.31 104.7813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 321.31 107.3213 0)
+    (property "Value" "100nF" (at 321.31 107.3213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 323.85 113.03 0)
@@ -4084,8 +4099,14 @@
     (property "Datasheet" "~" (at 323.85 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a7dac0d2-04b1-4a61-8220-e7a9e2235cbe))
-    (pin "2" (uuid 701df7b5-563b-4ac2-b3e6-e0c25ff55c00))
+    (property "JLCPCB" "C14663" (at 323.85 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 323.85 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 01442309-725f-48f6-93ba-c4d131582865))
+    (pin "2" (uuid a2645619-f1e6-4b47-9395-f7c4ea0e4f58))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4113,7 +4134,7 @@
     (property "Datasheet" "" (at 306.07 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 351d6c93-85f6-4f76-a9c8-4d0b82d8cca7))
+    (pin "1" (uuid ff778c58-2d49-4186-bbf4-2613bdd408b0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4141,8 +4162,14 @@
     (property "Datasheet" "~" (at 165.1 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9162769e-024c-47a2-b7d0-c8cebb23eafc))
-    (pin "2" (uuid 0ae351a2-2105-4e32-a9e9-2be0d355757d))
+    (property "JLCPCB" "C13585" (at 165.1 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 165.1 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid eb03fe6e-0bdf-4c0a-92a7-3700be623893))
+    (pin "2" (uuid ecdea30e-28f0-41c1-bd4e-10c8bff74a98))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4170,7 +4197,10 @@
     (property "Datasheet" "~" (at 237.49 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f782e838-6d08-4234-a0e8-00dc0da04190))
+    (property "LCSC Part" "" (at 232.41 30.48 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dbe35f31-dc5a-49db-ac5c-7ebc99af99b2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4201,9 +4231,12 @@
     (property "Field5" "" (at 336.55 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5277e317-c710-488c-a625-487d9ac6f850))
-    (pin "2" (uuid 89499ff9-3ef8-45a2-97ab-e0d12c40118f))
-    (pin "3" (uuid 276e3110-15de-4429-9029-2f7f7fdfdeaa))
+    (property "LCSC Part" "C6186" (at 336.55 144.78 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 223a1c04-2079-4b76-b18a-07c658665d97))
+    (pin "2" (uuid e3f57f1a-aac6-48fc-b8a7-aaf45c5ba6b0))
+    (pin "3" (uuid 59fe0d26-4bca-433e-9507-4a1af795d580))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4228,7 +4261,7 @@
     (property "Datasheet" "" (at 196.85 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a78fd077-dbcd-4708-8862-dd166ea5a9f5))
+    (pin "1" (uuid 9ac82e4d-785d-472f-ac7b-28671971c130))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4256,7 +4289,7 @@
     (property "Datasheet" "" (at 168.91 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39d47f64-98c0-49b8-bf90-dccaaff414ce))
+    (pin "1" (uuid 16bfdba4-790a-4658-9022-416d9150f2a8))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4284,7 +4317,7 @@
     (property "Datasheet" "" (at 165.1 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 71dac8c2-1333-471e-bb15-d99b785e62e2))
+    (pin "1" (uuid 4c354766-c7b2-4603-8a01-e96ec132591a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4312,7 +4345,7 @@
     (property "Datasheet" "~" (at 62.23 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d3c139d9-0853-4166-9444-b2c088b1abcd))
+    (pin "1" (uuid ad89beaf-1291-4826-aed9-37b5dbb2bddf))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4337,7 +4370,7 @@
     (property "Datasheet" "" (at 311.15 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6786cea2-b7d8-42dd-8748-305f7d6552c6))
+    (pin "1" (uuid 65ed98eb-0765-4b66-ac86-cb181a74ffad))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4365,7 +4398,7 @@
     (property "Datasheet" "" (at 353.06 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15012691-c765-4d67-8f1d-4295243277d2))
+    (pin "1" (uuid 85c08541-4bfe-4459-b29a-093f5f1f0f41))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4393,8 +4426,14 @@
     (property "Datasheet" "~" (at 219.71 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf33a4a4-018a-48dd-bc6b-be99b0d1db1a))
-    (pin "2" (uuid c71b8558-7c64-4f8a-b45d-a01a570744dc))
+    (property "JLCPCB" "C2831718" (at 219.71 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 219.71 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f8154568-ad26-4c44-8b08-868198e69e0f))
+    (pin "2" (uuid 8bd58d2c-618f-42d3-98b9-f1d1a37369a6))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4422,7 +4461,7 @@
     (property "Datasheet" "" (at 199.39 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f93a6d9-80a6-4e75-91a4-98f6e09821bb))
+    (pin "1" (uuid c3e35ea4-cb6e-4135-a205-f9fee187c0e1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4450,7 +4489,7 @@
     (property "Datasheet" "~" (at 121.92 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4c470546-fab8-4682-b75c-44aee716edbc))
+    (pin "1" (uuid 80ec3d05-dc64-4615-911f-b791adfbd5e8))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4475,8 +4514,14 @@
     (property "Datasheet" "~" (at 115.57 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ca73512c-2486-4690-9c71-bd652326955c))
-    (pin "2" (uuid bc3fd989-24a4-4a62-9be4-05194af82040))
+    (property "JLCPCB" "C2831718" (at 115.57 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 115.57 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ddb67dc9-5540-4b0b-a872-e0b9da16da9b))
+    (pin "2" (uuid 16ccbed9-d62a-4d2c-ac3e-35e5b0fe0e51))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4504,7 +4549,7 @@
     (property "Datasheet" "" (at 346.71 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5ec61f45-46c4-4870-a27f-6be8b8ccde39))
+    (pin "1" (uuid 983e4a19-c6f9-43af-9fd5-bb2cbd2217be))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4532,8 +4577,14 @@
     (property "Datasheet" "~" (at 363.22 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eadf2980-3b9e-4ee1-ba6c-41cb82e566c4))
-    (pin "2" (uuid fd4a6ef1-3552-43fb-80f4-53f2593c07ac))
+    (property "JLCPCB" "C13585" (at 363.22 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 363.22 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f1956806-5bf9-4710-8f9c-cbdd8358d885))
+    (pin "2" (uuid 6a3f9a68-b28c-48d2-a1f3-457b380fd880))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4552,7 +4603,7 @@
     (property "Reference" "C47" (at 130.81 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 130.81 225.4186 0)
+    (property "Value" "100nF" (at 130.81 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 133.35 223.52 0)
@@ -4561,8 +4612,14 @@
     (property "Datasheet" "~" (at 133.35 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4d0674fb-a1ac-4b05-9a25-0bccac48f4b6))
-    (pin "2" (uuid d237abcf-978d-4f76-95c8-3f8351b4743b))
+    (property "JLCPCB" "C14663" (at 133.35 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 133.35 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 15f9643e-2751-4ea4-81e5-96d11976d901))
+    (pin "2" (uuid e90f68fd-1abf-4dc1-a63a-32370c190cb3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4602,14 +4659,17 @@
     (property "Field5" "" (at 92.71 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2d5c3fca-78e3-4335-a5aa-c818b16176d3))
-    (pin "2" (uuid 41626ca1-b4cd-4d15-b844-7eac125fe270))
-    (pin "3" (uuid c44f7dab-55c1-4253-8bcc-0567065afa79))
-    (pin "5" (uuid c17cf0ff-c491-4990-82cb-188ea18ebdd2))
-    (pin "6" (uuid ba567aad-add9-4e23-a691-7c56cb301ab5))
-    (pin "7" (uuid 19988daf-14f8-47b7-a17f-a02771750a76))
-    (pin "4" (uuid c2a5b266-eb8d-44d5-8668-fe2790c8bb33))
-    (pin "8" (uuid d01d3ab3-d71e-426f-a491-2c20ed88c31a))
+    (property "LCSC Part" "C161797" (at 92.71 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 25b458d0-d86a-4a82-a537-22fa532fb116))
+    (pin "2" (uuid d123b012-abba-4f70-a663-4909ab8fd4ab))
+    (pin "3" (uuid 6ae499a9-68ec-4bc1-811b-022d8df96758))
+    (pin "5" (uuid d4ba9c0c-e871-438d-8f29-91a6f088ec6e))
+    (pin "6" (uuid aed1e6e6-726e-4303-a43b-24474c48c6c9))
+    (pin "7" (uuid 3007e7c1-9824-41ef-b94b-872f22e33027))
+    (pin "4" (uuid 4cd64790-ac79-4fbe-9466-b34eecc58e5a))
+    (pin "8" (uuid 1318ebc3-8f66-49d9-bf7c-0bd1aebcfbf7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4637,8 +4697,14 @@
     (property "Datasheet" "~" (at 181.61 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e9e62010-d1ec-4d3b-b3d7-c9f15cd3f184))
-    (pin "2" (uuid 2a170a5b-7748-49bc-a9eb-ceeaa11b5f3f))
+    (property "JLCPCB" "C13585" (at 181.61 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 181.61 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8e469532-553e-4f96-ac66-a79254fbbff8))
+    (pin "2" (uuid e799ef25-8936-4366-b423-4173df9af919))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4666,7 +4732,7 @@
     (property "Datasheet" "" (at 160.02 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 200de42e-7275-410c-93d2-b962b3141e26))
+    (pin "1" (uuid 5807093c-58d9-403a-8ccd-8f32cc9f8518))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4697,8 +4763,11 @@
     (property "JLCPCB" "C242335" (at 193.04 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 99690225-0cfd-45bc-aaf7-a7767e6c8416))
-    (pin "2" (uuid 64ab4710-0bc4-491b-8ff9-c28c8e68c4d8))
+    (property "LCSC Part" "C242335" (at 193.04 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 37ce9b25-496a-40cd-86b3-fc658446bb6b))
+    (pin "2" (uuid cbe904c8-bdc9-4429-a8ff-587e0a9e6df4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4723,7 +4792,7 @@
     (property "Datasheet" "" (at 368.3 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e916cc98-115b-414a-aa3c-e2e14f61a894))
+    (pin "1" (uuid b163e376-1d9d-418b-9d85-06d1ae1886d5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4751,8 +4820,14 @@
     (property "Datasheet" "~" (at 128.27 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f42824d6-44a3-45e6-b8ee-3b0947728389))
-    (pin "2" (uuid 3b636efd-7874-45a0-9688-126d35399bdc))
+    (property "JLCPCB" "C14663" (at 128.27 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 128.27 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5cfd545d-87ae-4687-a27d-4cbc65a3645f))
+    (pin "2" (uuid 1d1f7e58-c7cf-43d8-9c36-3b2a4a16c822))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4783,9 +4858,12 @@
     (property "JLCPCB" "C5451665" (at 213.36 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21cc6d11-5efc-4acc-b1d3-93b2cd9b6c04))
-    (pin "2" (uuid d648f2cb-aac6-4f4e-9d12-a40dcf2ea7c6))
-    (pin "3" (uuid e1aa464b-dca8-4933-b337-83ea7297d50b))
+    (property "LCSC Part" "C5451665" (at 213.36 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2fc9a445-d2cc-46a6-9366-57eeb15c0833))
+    (pin "2" (uuid d93eee7e-1c26-49ac-8418-a49b45a8a437))
+    (pin "3" (uuid db3d6107-140e-42bd-ba68-cd331d837cd7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4801,7 +4879,7 @@
     (property "Reference" "C47" (at 118.11 245.7386 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 118.11 248.2786 0)
+    (property "Value" "100nF" (at 118.11 248.2786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 120.65 246.38 0)
@@ -4810,8 +4888,14 @@
     (property "Datasheet" "~" (at 120.65 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2ca741a7-3d06-43a7-8615-0adddb7cd9c8))
-    (pin "2" (uuid ec4f8a9f-6e89-4e0f-a695-1e9705d6a372))
+    (property "JLCPCB" "C14663" (at 120.65 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 120.65 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 779b0ec6-5f78-455a-b1e0-de6e70046aaa))
+    (pin "2" (uuid c85a087d-10e8-4a09-a8d1-474b38237a7c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4845,7 +4929,7 @@
     (property "Datasheet" "" (at 363.22 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4e9706cf-ba49-4a67-a1ac-08e68fc50e07))
+    (pin "1" (uuid b0f73e76-883e-4277-ba11-40bdb0334fad))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4873,7 +4957,7 @@
     (property "Datasheet" "" (at 336.55 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1c722763-0668-4a5b-8ddc-cb6e60b78bdb))
+    (pin "1" (uuid 748373d7-f5d3-45e0-b912-3209d07df906))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4901,8 +4985,14 @@
     (property "Datasheet" "~" (at 80.01 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 483f506a-3b47-41d8-aa96-92de3b6f3168))
-    (pin "2" (uuid 166bdc97-b810-477b-9abf-474d71d91d24))
+    (property "JLCPCB" "C13585" (at 80.01 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 80.01 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 35938e9c-5d6b-41ec-83f7-df4c34f96bf3))
+    (pin "2" (uuid c2ff5525-377e-404f-99fd-6a1469876b7c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4930,8 +5020,14 @@
     (property "Datasheet" "~" (at 327.66 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f775dfed-f5a0-4265-bf6c-b8f6573335b7))
-    (pin "2" (uuid f3f78a2c-25c0-47f0-95c4-ca8a88eacc09))
+    (property "JLCPCB" "C2831718" (at 327.66 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 327.66 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6d050094-c5af-4514-b36f-86e2624a482d))
+    (pin "2" (uuid e7c6c42e-613c-4785-8daa-52a028b4b86e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -4959,7 +5055,7 @@
     (property "Datasheet" "~" (at 284.48 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a6ddc06-ce8d-44ab-b699-7662a5994c58))
+    (pin "1" (uuid 281de571-db19-44f9-b8a4-8d6be76df1e3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -4987,8 +5083,11 @@
     (property "JLCPCB" "C242335" (at 175.26 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 35f9cca2-5fee-478c-98d2-e09ac798382f))
-    (pin "2" (uuid 79ddb759-07af-4327-871b-c8ba777ef562))
+    (property "LCSC Part" "C242335" (at 175.26 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b6a1d402-52ff-4f00-8fb7-37c797a8e9b3))
+    (pin "2" (uuid 66776dbe-2296-4eee-8d77-60043b60ed04))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5013,7 +5112,7 @@
     (property "Datasheet" "" (at 368.3 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid adebc016-1391-450e-b6b1-13c08b1a3abf))
+    (pin "1" (uuid 5723a9bc-a2f4-40c2-bf6f-bbe25d5830f1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5041,7 +5140,7 @@
     (property "Datasheet" "" (at 120.65 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ce6a5b9e-e0ea-4d67-83ed-606ca9f225cc))
+    (pin "1" (uuid 704f3593-7e65-4db1-951f-ed0efa645158))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5069,7 +5168,7 @@
     (property "Datasheet" "~" (at 77.47 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e01376fd-bcfe-4edf-ab67-bdc095183256))
+    (pin "1" (uuid 43e918c8-594c-44bd-a724-60ef7bdbdaac))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5094,7 +5193,7 @@
     (property "Datasheet" "" (at 369.57 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9c15bd4b-06ca-4cdd-8005-aea6f12ee026))
+    (pin "1" (uuid 28a7fc27-f0da-496c-94da-c394934a805e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5122,8 +5221,14 @@
     (property "Datasheet" "~" (at 247.65 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcdaf37f-c066-4c9d-91c6-c9d47c237eea))
-    (pin "2" (uuid 9f603de4-3dce-4d23-8d66-c17836bd9f10))
+    (property "JLCPCB" "C13585" (at 247.65 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 247.65 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ee01bd28-72db-46cc-8316-83fedda74292))
+    (pin "2" (uuid 962ab7dc-cd1d-4a1a-a3f8-8bd574bd4ab6))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5151,8 +5256,14 @@
     (property "Datasheet" "~" (at 128.27 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b200f72-9b54-468e-9a94-4bb445dd8cdc))
-    (pin "2" (uuid 01a8d7e3-4149-4cb7-881d-79cee42a4ac1))
+    (property "JLCPCB" "C14663" (at 128.27 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 128.27 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ca628b64-eafa-48e0-8b60-89f982a19ae7))
+    (pin "2" (uuid bb5695e6-743c-439b-8fcb-053504318885))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5180,8 +5291,14 @@
     (property "Datasheet" "~" (at 201.93 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b3eae08-c1fc-452e-a454-e7693ff189e5))
-    (pin "2" (uuid 4026ed94-9d61-4537-9736-fef40b74626a))
+    (property "JLCPCB" "C14663" (at 201.93 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 201.93 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6fa52eae-338e-4123-b149-77d01413164d))
+    (pin "2" (uuid 5c58da35-4490-45d5-9cfc-93e00c64d630))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5209,8 +5326,14 @@
     (property "Datasheet" "~" (at 213.36 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95dc6092-d9ee-4885-8aaa-c2b41585c92e))
-    (pin "2" (uuid 0b5f3de1-934d-419d-8b1b-98e9a9b3c0bf))
+    (property "JLCPCB" "C2831718" (at 213.36 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 213.36 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ecdbfc50-98d5-44e0-ad16-b63fbf5b2552))
+    (pin "2" (uuid 8143d6fd-efef-4eb9-abc3-479d2a33e5b3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5238,8 +5361,14 @@
     (property "Datasheet" "~" (at 306.07 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4167e375-a481-4262-ae9a-c1bb9909cd5a))
-    (pin "2" (uuid 174a0642-8a52-4b44-aebb-bbfc022fb320))
+    (property "JLCPCB" "C13585" (at 306.07 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 306.07 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 79f44926-9ab9-4139-b742-0ddc064d8d2d))
+    (pin "2" (uuid 2a7c2740-8d19-4ef3-bc85-0607f8327d18))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5258,7 +5387,7 @@
     (property "Reference" "C47" (at 96.52 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 96.52 225.4186 0)
+    (property "Value" "100nF" (at 96.52 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 99.06 223.52 0)
@@ -5267,8 +5396,14 @@
     (property "Datasheet" "~" (at 99.06 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b845598-19fa-4b5e-bc67-7e06dd6f96d9))
-    (pin "2" (uuid f1b8c6f0-05be-4359-9406-51742984af6c))
+    (property "JLCPCB" "C14663" (at 99.06 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 99.06 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c8ef90de-06f0-4548-ba1c-2e6ce839e193))
+    (pin "2" (uuid 4e832121-4166-43e0-b723-0b9fc57a640e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5302,8 +5437,14 @@
     (property "Datasheet" "~" (at 201.93 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 730ecd9a-fddb-4750-aef2-bfd8a7a74d22))
-    (pin "2" (uuid 3a0da068-d61b-407e-9a36-3beaa91825e1))
+    (property "JLCPCB" "C14663" (at 201.93 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 201.93 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d905be09-e79b-4dc2-ba7a-9e52b4b0cc21))
+    (pin "2" (uuid cffc12de-775c-4519-a63b-6de2cf79e518))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5331,7 +5472,7 @@
     (property "Datasheet" "" (at 323.85 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4a15de7c-a66e-4019-9384-0f2fefb8bc0a))
+    (pin "1" (uuid 0fc7a5f3-ff18-4e37-93cb-5d3d719c7d6b))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5359,8 +5500,14 @@
     (property "Datasheet" "~" (at 133.35 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0ad326e8-acd3-4150-b191-d45d966a0315))
-    (pin "2" (uuid a79004c9-6524-408c-9451-33405ffbcaa2))
+    (property "JLCPCB" "C14663" (at 133.35 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 133.35 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7ba5f2e8-50e5-4457-bad8-08d9875c13f0))
+    (pin "2" (uuid 43780583-2136-4180-b680-bc4454db96b2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5388,7 +5535,7 @@
     (property "Datasheet" "" (at 128.27 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e3e31e69-086e-4e1c-8a55-a2a1de4d4558))
+    (pin "1" (uuid 5462214c-f8c8-4775-827e-cdde596618fc))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5416,7 +5563,7 @@
     (property "Datasheet" "" (at 149.86 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 548cccb4-26ab-45c1-ae0e-a1b90adb50bd))
+    (pin "1" (uuid ff9c87e5-2679-4b2c-9e86-cff58befd276))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5444,8 +5591,14 @@
     (property "Datasheet" "~" (at 358.14 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 147a22ee-52e2-4b48-83e5-6c601fd9fbe6))
-    (pin "2" (uuid 5776d2a9-04c3-4f56-8bb1-cc07d14c27f3))
+    (property "JLCPCB" "C13585" (at 358.14 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 358.14 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 385cf48b-8925-4968-9d39-df75f1b7a18c))
+    (pin "2" (uuid 35c546ac-83cd-4160-a99b-b606935fbfac))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5473,8 +5626,14 @@
     (property "Datasheet" "~" (at 85.09 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c911098-39a7-4229-b2b0-d184003c1169))
-    (pin "2" (uuid 3dcba133-607d-4e67-abfb-68ce78479e20))
+    (property "JLCPCB" "C13585" (at 85.09 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 85.09 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0e672f08-aa91-42b6-8d7a-e8070b9d6087))
+    (pin "2" (uuid 91972ca1-b2a9-4662-8885-05d0e10b30ba))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5502,7 +5661,7 @@
     (property "Datasheet" "~" (at 115.57 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0c4e15c-ac0e-4286-99b7-c11e07262aee))
+    (pin "1" (uuid 4224fa19-8ad9-45e5-a3ad-94786672dcc3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5527,7 +5686,7 @@
     (property "Datasheet" "" (at 290.83 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7cedd2f-aaff-4eb9-9f0a-586a2af4f5a1))
+    (pin "1" (uuid a766bf5e-a652-46bf-ab2c-ea614cb55165))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5555,7 +5714,7 @@
     (property "Datasheet" "" (at 196.85 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a239a4e9-518c-4760-b96b-e8887df90ed7))
+    (pin "1" (uuid 01330038-632b-4d14-a40a-93d671a9547d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5583,8 +5742,14 @@
     (property "Datasheet" "~" (at 317.5 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7053c27d-b85f-4565-af8f-18d2dbf3863d))
-    (pin "2" (uuid 25315267-0ce0-4073-976f-bf9b13194021))
+    (property "JLCPCB" "C2831718" (at 317.5 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 317.5 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4ab00244-9616-455e-a478-1d47137604f2))
+    (pin "2" (uuid 8791d037-1f3f-4834-9d4f-6dc505ba679a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5612,7 +5777,7 @@
     (property "Datasheet" "" (at 72.39 222.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7a5fdafa-a02c-48cb-9b9e-c06daca22f2f))
+    (pin "1" (uuid 87d75817-f837-4f94-8b21-4831d91f5626))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5637,7 +5802,7 @@
     (property "Datasheet" "~" (at 95.25 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19334022-3780-41fc-b379-e192a527b22b))
+    (pin "1" (uuid 81d9c848-d6e1-4937-921a-0b137fc05333))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5662,8 +5827,14 @@
     (property "Datasheet" "~" (at 62.23 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 195cabd3-8fcb-4a58-959d-c08655bdbd88))
-    (pin "2" (uuid c106b019-3f4b-4a95-842f-d78818c03c68))
+    (property "JLCPCB" "C13585" (at 62.23 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 62.23 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8d8bbcdf-ed01-4d1b-9f88-4e3dba325691))
+    (pin "2" (uuid 71dc6166-872e-4ffa-85ca-41b347a35d62))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5691,8 +5862,14 @@
     (property "Datasheet" "~" (at 191.77 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 47b4d273-1ccd-43ae-89c1-2cf1402b1d01))
-    (pin "2" (uuid 6577be47-680b-46f8-808a-a58528ceea2e))
+    (property "JLCPCB" "C13585" (at 191.77 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 191.77 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 15a2e51e-5e31-4c92-829f-c9f52a7a3589))
+    (pin "2" (uuid 18e90fb2-cc30-4f4e-8677-4102298fa48a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5720,7 +5897,7 @@
     (property "Datasheet" "~" (at 92.71 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d8fa9a3e-c5ee-4ca7-bf7a-7778e2875bf2))
+    (pin "1" (uuid e9d79c57-ca3a-4613-abd3-80ee0a4b995a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5745,7 +5922,7 @@
     (property "Datasheet" "~" (at 55.88 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e09f302-9b9f-4588-b23c-3a5adadb90db))
+    (pin "1" (uuid 604bd0d6-2dd6-4856-b444-b8695f71572c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5776,9 +5953,12 @@
     (property "Field5" "" (at 337.82 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5979f94-1632-42e9-8577-e248c5f8414e))
-    (pin "2" (uuid 9d006208-4d51-4555-b2e0-9784fa906bc8))
-    (pin "3" (uuid 2b56ffac-c8cf-46d6-b216-3af8a4af7841))
+    (property "LCSC Part" "C6186" (at 337.82 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e6865c3f-054e-4005-929d-306ad9decd9b))
+    (pin "2" (uuid b3d05e1b-b092-429f-b177-7a138131e468))
+    (pin "3" (uuid 4f2cec02-97ed-452f-afcd-0bdfbd013165))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -5803,8 +5983,14 @@
     (property "Datasheet" "~" (at 227.33 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 04678d8a-f22d-45b1-a1a2-7c132686e39f))
-    (pin "2" (uuid 6f87716e-4a49-47e3-a564-0f9ec52a50b3))
+    (property "JLCPCB" "C2831718" (at 227.33 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 227.33 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 961c3dd7-3f28-41a9-83c9-c2e02a3a5b51))
+    (pin "2" (uuid b653a99c-9295-4f42-a273-5b9cad9ff4ed))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5832,7 +6018,7 @@
     (property "Datasheet" "" (at 227.33 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c4749ad0-34d0-445e-ba02-016715689861))
+    (pin "1" (uuid 7b18a73f-746b-4bbd-934b-fd77a3c5567e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5860,7 +6046,7 @@
     (property "Datasheet" "" (at 358.14 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 35101c9b-edbe-43bb-a615-7decf1ef0d2e))
+    (pin "1" (uuid 9abab0d1-a8b5-4c2d-b4be-df78426138b2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5888,7 +6074,7 @@
     (property "Datasheet" "" (at 358.14 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd9103fd-01ee-4e66-b5a8-766729b4e351))
+    (pin "1" (uuid 867fbe71-e46a-4ef1-bb47-8913fecd8b45))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5916,7 +6102,7 @@
     (property "Datasheet" "" (at 162.56 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 429a076c-024c-4ac7-a599-22eacb93a4f2))
+    (pin "1" (uuid 9e6644c7-d76c-4b8e-879a-5a976fc04ef1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5935,7 +6121,7 @@
     (property "Reference" "C47" (at 118.11 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 118.11 225.4186 0)
+    (property "Value" "100nF" (at 118.11 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 120.65 223.52 0)
@@ -5944,8 +6130,14 @@
     (property "Datasheet" "~" (at 120.65 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40572cb9-fe6d-4ec2-a968-78ed5446cdfc))
-    (pin "2" (uuid 474397a8-611f-42bb-a612-7aa0919e6fb3))
+    (property "JLCPCB" "C14663" (at 120.65 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 120.65 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 928efcb2-3217-4b2b-8e2d-7dceb7b3c00c))
+    (pin "2" (uuid bdaaa570-7983-44fa-b479-d6bd983ca7d8))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -5979,7 +6171,7 @@
     (property "Datasheet" "" (at 374.65 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6ded01b6-959f-4184-80cf-28af47ff7130))
+    (pin "1" (uuid 7d02297d-a402-48c8-9749-66e914bd775d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6007,8 +6199,11 @@
     (property "JLCPCB" "C242335" (at 135.89 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a43d25e1-dff6-4cd2-8e02-c4e491ce2d41))
-    (pin "2" (uuid 432ab8e0-7326-4539-b70f-dc55334a6db4))
+    (property "LCSC Part" "C242335" (at 135.89 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 62b91a23-b6d6-4590-b8d6-d9308fea55fe))
+    (pin "2" (uuid 415bf994-f6c8-4ed0-96bf-e0e7be2e444c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6033,7 +6228,7 @@
     (property "Datasheet" "" (at 203.2 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d1a5797-c906-4b15-8fee-87ce2ae07be4))
+    (pin "1" (uuid b3af448b-163a-4ffc-95bb-2cd0a274f898))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6061,70 +6256,73 @@
     (property "JLCPCB" "C2913556" (at 219.71 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "10" (uuid c405fbe1-6734-49e3-88f3-08ff761e5f7d))
-    (pin "11" (uuid 73807599-fe00-4294-abde-de0b1d4a1f7c))
-    (pin "12" (uuid 03a112f1-c419-4303-9669-52b8219a050c))
-    (pin "13" (uuid b026a69f-e450-47e6-8cf5-dd977c37eea6))
-    (pin "14" (uuid ef976fec-f9e8-418b-a4bb-87275bd5014f))
-    (pin "15" (uuid 6be731b0-1027-4fcd-90c6-7f0abdbe6802))
-    (pin "18" (uuid fd4a7f5d-bd4b-4094-94da-f3996b8c4505))
-    (pin "19" (uuid 3b37a99a-8cf7-4a4e-8cfb-40ad30ed9a85))
-    (pin "2" (uuid 1c3f635b-67db-4cd4-9d83-a937f345db9c))
-    (pin "20" (uuid e12966cb-a640-4dd4-b9c4-214ebf50c21c))
-    (pin "21" (uuid 17709109-8c94-49b6-bfb1-1890da0da602))
-    (pin "22" (uuid d91cf70a-5061-4400-8cb5-5304a1a7a576))
-    (pin "26" (uuid 66399fc9-16c4-413d-af7f-032cea29963a))
-    (pin "27" (uuid 452cb44c-0565-45d7-aa0c-16f761d03e83))
-    (pin "28" (uuid 9e261cc6-2ddb-46e0-bd78-4699280fffc5))
-    (pin "29" (uuid 1cbe7b10-ae0b-4568-9d0b-2611ea6742b6))
-    (pin "3" (uuid ddf4ec35-8b7e-4325-834d-e0c32d3ed207))
-    (pin "30" (uuid 3ae274d5-fdec-4cf7-b5f9-ee68c72f9062))
-    (pin "31" (uuid 16e353f9-c6ce-4db4-abd7-1d6ab13f92d2))
-    (pin "34" (uuid b4eb798f-e5cc-4bc8-bbab-cc200389e897))
-    (pin "35" (uuid 15a51940-3a9f-412e-97ad-b39ff6c73061))
-    (pin "36" (uuid 1069f76f-089a-4cbc-93fb-9c6841fdbcc0))
-    (pin "37" (uuid 5b3eb9fa-d9fb-471d-a16d-78a184c99923))
-    (pin "38" (uuid e63525d1-51c6-4207-b2a5-02c2839d671a))
-    (pin "39" (uuid 641eba4c-13f2-48e5-bb34-c4c69de42389))
-    (pin "40" (uuid 197da09f-b979-4a25-a477-93c71e97aac7))
-    (pin "41" (uuid d6525187-3293-4261-b937-d6d6b3239155))
-    (pin "42" (uuid 17adee21-094e-4613-9d81-57b908c550e5))
-    (pin "43" (uuid 021972be-b7bd-4610-91b3-b305219a68b6))
-    (pin "47" (uuid 006dd54f-8730-44a0-aca7-e79e069ae714))
-    (pin "52" (uuid f4513a44-f50c-4750-910f-5b5c3ef2c5e9))
-    (pin "53" (uuid dc6bfc42-a6c3-42fb-86e9-615fad920156))
-    (pin "54" (uuid 6cdf812a-153d-46bb-8b9d-c07ad6c194ba))
-    (pin "55" (uuid 59161f77-0f71-46d6-a866-569007edf26b))
-    (pin "56" (uuid e91aa710-e115-4654-a8e0-5fb8a2835c8a))
-    (pin "57" (uuid c16801d0-3f86-4bf2-a0ea-72b61bb2a585))
-    (pin "58" (uuid 59b02e8f-056e-4924-b082-f99e33837903))
-    (pin "59" (uuid 6b50e88c-9ed3-4abc-a6f7-6693a3dd746a))
-    (pin "6" (uuid 0fd43be4-4690-4e23-bcfa-d96726afbd79))
-    (pin "60" (uuid 5fae8b86-9434-4b58-a1fa-6d992500b305))
-    (pin "61" (uuid 85d10119-f0b3-4538-9e50-b54d4eb49935))
-    (pin "7" (uuid f0bbb642-589d-44a6-9d0e-277146b5f897))
-    (pin "8" (uuid 14a211f0-ba73-4ad7-ae10-3d3a191e7b79))
-    (pin "9" (uuid fd55f788-e9f4-44df-9ff1-da908a7083c5))
-    (pin "1" (uuid 8435fd29-83e2-4a45-847d-51975d627fdd))
-    (pin "16" (uuid c0b577d5-b479-46b8-91f8-72d55a22cc76))
-    (pin "17" (uuid 3b45fb97-39d9-4630-8ed4-6466142bac89))
-    (pin "23" (uuid 65629b60-8f33-4ebf-a3a7-6a7af811908a))
-    (pin "24" (uuid a3497304-87e7-484d-85e0-01dd3548a2c8))
-    (pin "25" (uuid 8e716b9b-7fc2-4585-a74d-318a4302b3d1))
-    (pin "32" (uuid 2413dbef-8218-43db-bf30-54caa1ed2b15))
-    (pin "33" (uuid c095d9bb-2236-4bea-b2d2-5d8684f50137))
-    (pin "4" (uuid f03fc962-86e4-4143-86a2-92e2e0301f50))
-    (pin "44" (uuid 1b564f56-5f87-4a25-bf23-bf48647bb0bc))
-    (pin "45" (uuid 2fba2663-1edc-4d70-9c5e-28a839495a7c))
-    (pin "46" (uuid eac58710-5636-4652-9415-9bd663de3822))
-    (pin "48" (uuid 878de2b3-77af-4108-a4f4-b93cdda9df1d))
-    (pin "49" (uuid 5dfed453-5a72-4576-af8d-04f0ef0f2276))
-    (pin "5" (uuid 21269a1f-e190-45dd-ac76-4bca870b2a45))
-    (pin "50" (uuid 975bdac2-a9b1-47fa-bdf4-81024c8af90a))
-    (pin "51" (uuid 81b1c3b7-ad27-41c7-9d03-46e9b654bc88))
-    (pin "62" (uuid 254d869f-cdc9-44c9-94f9-6ba890706711))
-    (pin "63" (uuid 3315881e-fbc6-4051-a178-1257733ddd8d))
-    (pin "64" (uuid 93e795e8-5aeb-4edc-9249-f8be78e64632))
+    (property "LCSC Part" "C2913556" (at 219.71 207.01 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "10" (uuid afc7d2cd-3b20-47dd-a179-cbe9b0ae659b))
+    (pin "11" (uuid 4a2bdeac-c6b4-484a-a9c3-f9591bf10f4f))
+    (pin "12" (uuid 8eb7cbdf-8fd1-49ad-9119-e03bf419aa3c))
+    (pin "13" (uuid 881b48c2-9137-4faa-89dd-7cff7c6c6806))
+    (pin "14" (uuid ca09c5df-1518-4acc-be7f-d556e0f80376))
+    (pin "15" (uuid 4bb080dd-33d9-4343-ab0d-c6c0701cbd32))
+    (pin "18" (uuid 7bffcc74-e120-48dd-8887-7bc549fec8f0))
+    (pin "19" (uuid 426c0de8-baf6-4069-87a9-b66715be2516))
+    (pin "2" (uuid e41523cd-338c-4e6e-af9a-8ea21ebd9bd8))
+    (pin "20" (uuid dedbe614-f537-4d77-bb5f-036d67a2c509))
+    (pin "21" (uuid dd8748ce-7349-4ddc-948b-da887b9df3ae))
+    (pin "22" (uuid 57ca3d85-78a6-4919-b19d-2296507818fa))
+    (pin "26" (uuid fdc42de8-e085-414d-85e1-fd57b628cd8a))
+    (pin "27" (uuid e7af7ad0-a10f-4d12-8bbf-7e68a9e09caf))
+    (pin "28" (uuid fe3da27d-5281-4a0c-9b65-956caccf8b8b))
+    (pin "29" (uuid 7e5bacdb-1fc9-4e02-91c9-e44351d385e1))
+    (pin "3" (uuid 2117a8a7-9d8a-4d50-ade4-1233ab69a14d))
+    (pin "30" (uuid 6991f973-a21d-4f1f-8cbf-74a0d73f9a9d))
+    (pin "31" (uuid 432962f2-12fe-477e-b649-c57ee2308d0b))
+    (pin "34" (uuid 99f1045e-fe24-45f4-b585-985e29c569d5))
+    (pin "35" (uuid 9704c32b-8bab-4af3-a1e2-28999639c2c7))
+    (pin "36" (uuid 3a2ba588-4d12-478b-bb52-5f2463827157))
+    (pin "37" (uuid 7c89854e-f056-4779-b394-4150807067c5))
+    (pin "38" (uuid ff70925b-cc9d-4822-90ec-8c4bd93630ac))
+    (pin "39" (uuid 68da016c-cb10-4cc1-991c-a63a024325ea))
+    (pin "40" (uuid 429a8b60-20b0-4fb9-ab5a-ba89bf2b8644))
+    (pin "41" (uuid 8e7b7b97-3e79-45bf-abbc-e555b3e9d566))
+    (pin "42" (uuid 8bfb9a07-113c-407b-8bd1-c3bd07f29052))
+    (pin "43" (uuid 4ea421b8-95e0-4c13-8a7d-60e08c9a2c3e))
+    (pin "47" (uuid bf242645-1702-44f6-8e03-a31dd0c1630a))
+    (pin "52" (uuid 4a867c24-1ea7-47ca-a7af-7063077e8af3))
+    (pin "53" (uuid ebef0e7b-eecb-453d-9cc6-d035770960c6))
+    (pin "54" (uuid d7018466-d17f-4a8f-8a82-d6f74426956e))
+    (pin "55" (uuid fb159689-d869-4259-92f4-59055f66f2e2))
+    (pin "56" (uuid 846e6737-073f-4a19-befb-858be0d7564e))
+    (pin "57" (uuid 848f5979-e636-40ac-baf1-538a651c1590))
+    (pin "58" (uuid cad0f08f-99a5-4f87-81ec-803c84944940))
+    (pin "59" (uuid fee43720-88bd-4862-85ea-b345a18ac433))
+    (pin "6" (uuid f5c373f9-7eb0-41d7-bf3d-71bcab3f0e58))
+    (pin "60" (uuid 320ccce2-4469-4468-8ff6-19ab752b9722))
+    (pin "61" (uuid f7cf2abe-76a7-4477-b323-6d8c87cbb2b7))
+    (pin "7" (uuid a2b91575-3592-40e4-b214-5201bd76350e))
+    (pin "8" (uuid 49afde13-aec4-4247-8860-8a7cecd96600))
+    (pin "9" (uuid 1ca6f2f1-80ab-4a89-80af-b9783044c237))
+    (pin "1" (uuid d388f2b4-cca6-463d-968a-e0b25c2b9742))
+    (pin "16" (uuid 925c6a35-9b50-4562-8203-6576f074ba9c))
+    (pin "17" (uuid 75a8b11d-4b58-46a7-b3e1-eff97054a9c7))
+    (pin "23" (uuid 49038a59-d838-4a6b-a63a-7fc7e8df5243))
+    (pin "24" (uuid 11a9dd4a-a455-4cf4-8597-0fb0a50b1054))
+    (pin "25" (uuid 72b65eda-f269-4698-8587-4a5f4cb552ac))
+    (pin "32" (uuid 0b3b35cb-241a-4b63-8cc5-7e2fa804a718))
+    (pin "33" (uuid 9f113050-4baa-4cb2-9b12-520e42724a07))
+    (pin "4" (uuid 37f8dc6a-f6fd-4e2c-9d36-6d890ab50550))
+    (pin "44" (uuid 49b3c35f-e4f0-4450-888d-9409f2ddea69))
+    (pin "45" (uuid 7894576d-905c-44e3-ba69-834e1c760334))
+    (pin "46" (uuid 9446031c-c3aa-44a9-8173-d59dc62c383b))
+    (pin "48" (uuid b4aca342-35fc-4bc8-943d-c2ba719834b0))
+    (pin "49" (uuid 677e3aab-d3ac-46b4-801e-1221561476e8))
+    (pin "5" (uuid b0ebd816-edb7-4eda-85c8-7c5551aef63e))
+    (pin "50" (uuid 2c0a2be4-e4bd-4a4f-9e27-9bd347e0e220))
+    (pin "51" (uuid 0bee152a-b791-4b6a-b0ba-62d7630b7a26))
+    (pin "62" (uuid b464e895-8611-4703-a792-f4345c993026))
+    (pin "63" (uuid bdfd94a5-38a4-48d7-8aa0-aca7369d9c4e))
+    (pin "64" (uuid d6cd2dfe-9cdf-4152-979b-681143d2d7fe))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/8744407a-1e34-4228-b7c6-9fdc39f322d4"
@@ -6155,13 +6353,16 @@
     (property "JLCPCB" "C5369662" (at 105.41 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d0e4d2d4-eb95-4811-a4d3-3c9d6a35f13b))
-    (pin "2" (uuid ba84a1ab-d04f-4470-8791-bce16ded86ff))
-    (pin "3" (uuid 511e645f-370f-472e-850c-972dbee50eb5))
-    (pin "5" (uuid f6cffaaa-1f4b-4363-97b3-f634816883e1))
-    (pin "6" (uuid 62095cb2-68c2-485f-bb2a-8dd188b43427))
-    (pin "7" (uuid fa022e46-858c-47c0-ba2a-79ca1d87c1d5))
-    (pin "8" (uuid eda12d2f-f7b4-45d6-bdc6-cee1d74d031d))
+    (property "LCSC Part" "C5369662" (at 105.41 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 94b36809-f370-4b00-9c1e-d9b719f682ea))
+    (pin "2" (uuid 16eae1d2-fbc8-4bfc-bbcd-4ef2593e0e42))
+    (pin "3" (uuid 9714f30e-1462-499c-8128-ecb31a7fef47))
+    (pin "5" (uuid 25c50b36-1dd7-4127-a34c-4a8e872becbb))
+    (pin "6" (uuid 84d934c3-e9d0-45c1-ba16-0ed0cf0952bd))
+    (pin "7" (uuid 113c254b-c817-4fc7-a022-4af0b4ebab11))
+    (pin "8" (uuid 94676002-3e44-4a49-9311-e6006726ede0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6186,9 +6387,12 @@
     (property "Datasheet" "~" (at 278.13 30.226 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f1903dae-e9f8-4530-bb4c-d9a120a9d4fc))
-    (pin "2" (uuid 8774dac4-3544-45d6-b346-aaabcff09276))
-    (pin "MP" (uuid a00aa7dd-039c-4aeb-970d-390f5ae57966))
+    (property "LCSC Part" "C3010533" (at 276.86 29.21 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d8f2bbbf-fc2c-4f62-9d6c-16dd101888ce))
+    (pin "2" (uuid f2242ea9-c36c-4db2-a54a-da9f9b39bde0))
+    (pin "MP" (uuid 966b876c-fdeb-4f6f-970c-3495cae4b64f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6213,7 +6417,7 @@
     (property "Datasheet" "" (at 186.69 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fcab355f-05f4-4721-a318-aef09c4e3c13))
+    (pin "1" (uuid 7a44b7e1-db99-422c-b132-c81a3632f62a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6241,8 +6445,14 @@
     (property "Datasheet" "~" (at 168.91 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9481519a-d327-42e6-8451-d281ec823dc3))
-    (pin "2" (uuid 03e42909-41d1-4da8-aa27-dcb857f5b2b8))
+    (property "JLCPCB" "C14663" (at 168.91 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 168.91 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c6692c0c-c463-4fbf-812c-57281cbc019f))
+    (pin "2" (uuid e77a04a5-77a8-4fc1-a5f3-275f8de38a51))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6270,8 +6480,14 @@
     (property "Datasheet" "~" (at 62.23 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dc7c342f-ad4f-4401-b712-f61cf0e07b59))
-    (pin "2" (uuid f412bf1e-6876-43f4-a50e-987a5f51b1d2))
+    (property "JLCPCB" "C2831718" (at 62.23 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 62.23 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d742482a-d6b7-4922-9092-b5789e414160))
+    (pin "2" (uuid bf5161fb-3555-42a8-8787-d266d1c93a89))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6299,7 +6515,7 @@
     (property "Datasheet" "" (at 280.67 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13e8af7a-fd22-4eb8-af85-eb8aeba52cb6))
+    (pin "1" (uuid 45850fe1-bc03-485a-bc2e-d564cbc6688d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6324,7 +6540,7 @@
     (property "Datasheet" "" (at 226.06 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e406e5ab-7005-4454-bb7f-6c54ea33882f))
+    (pin "1" (uuid 7c210b57-e921-4517-a0ac-f0b7fd72aed3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6358,14 +6574,17 @@
     (property "Field5" "" (at 118.11 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4364877c-60bc-4b96-a092-7e92a432a9e8))
-    (pin "2" (uuid a95450ff-6146-4500-b4ae-129244649e91))
-    (pin "3" (uuid 27ada1ab-5e95-4419-9c86-af9172b221b0))
-    (pin "5" (uuid c2ac9bcf-ec1b-4b9c-ae19-a634d190b602))
-    (pin "6" (uuid f5ec58d0-233a-4771-b979-7e082f3c9c19))
-    (pin "7" (uuid eee4d22b-be46-4812-b593-42dc375df001))
-    (pin "4" (uuid a163aaa2-8acf-452e-b97d-a112384125ee))
-    (pin "8" (uuid 209f2a82-1984-4f31-a50d-b77fb534c0d3))
+    (property "LCSC Part" "C161797" (at 118.11 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f865a484-1741-4628-9f71-fa3647b117eb))
+    (pin "2" (uuid 7702f6e7-aae7-4706-acf4-bee0a9b2158d))
+    (pin "3" (uuid b021ef5f-067e-466c-94e4-9081eb5a9674))
+    (pin "5" (uuid d1506c29-c2fc-4db6-a330-899cbf7325a9))
+    (pin "6" (uuid fcc8a75d-e6fb-479c-b490-95815a656a17))
+    (pin "7" (uuid 01ce80d9-9102-4777-86ad-f7fb1ad771e5))
+    (pin "4" (uuid 90b9bb57-46a1-481f-8b1e-df08d1513c5b))
+    (pin "8" (uuid d2886823-0941-4c5b-a3f9-3343dec50a6f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6402,9 +6621,12 @@
     (property "Field5" "" (at 336.55 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac93d968-404e-4da2-935c-c51ea17c11f2))
-    (pin "2" (uuid 3d70889a-fd5c-4e3d-8096-467d30f4ff1c))
-    (pin "3" (uuid f316d711-503c-497b-aac9-7f5586b47780))
+    (property "LCSC Part" "C6186" (at 336.55 109.22 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 97375e34-9e40-4b9b-badc-1cb6ecaab10d))
+    (pin "2" (uuid 3c732c85-5468-49f7-a1dd-0acc0cdacd5d))
+    (pin "3" (uuid 4e928209-4cb5-45f4-aa6a-4dced1dd64f4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6429,7 +6651,7 @@
     (property "Datasheet" "" (at 154.94 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e5f124a6-5615-48da-8660-33caea170246))
+    (pin "1" (uuid 8f3972b8-8b76-4554-ae9f-a93de367513a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6457,7 +6679,7 @@
     (property "Datasheet" "~" (at 133.35 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1b5adddf-3ae1-49d9-ae85-3886be6ff2ce))
+    (pin "1" (uuid 978279dd-7c1f-4fc3-b705-13ed1d06fd3b))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6482,8 +6704,14 @@
     (property "Datasheet" "~" (at 77.47 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e617d9dc-8f47-40c5-9ec1-cf0cfc7f5787))
-    (pin "2" (uuid 6abb95e4-7c0a-4e8a-8b25-907c03d70d92))
+    (property "JLCPCB" "C13585" (at 77.47 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 77.47 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ed888086-e0b8-4d3b-9374-b3587418b9ea))
+    (pin "2" (uuid 4086ac36-02ae-4c81-a070-9ceccb73bb7d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6511,7 +6739,7 @@
     (property "Datasheet" "" (at 210.82 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c3d1769a-88c8-48fb-88a6-78156860bd25))
+    (pin "1" (uuid 1caa7e53-f4b0-46dd-92f2-bf568574cfc0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6539,7 +6767,7 @@
     (property "Datasheet" "~" (at 68.58 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4c03bf69-8a60-4dcb-b236-711a088ba467))
+    (pin "1" (uuid 3dda12c4-85ae-4900-813b-c30943e5d9f3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6564,8 +6792,14 @@
     (property "Datasheet" "~" (at 368.3 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b3a7fac-3a90-4871-a513-3dcbcd96804e))
-    (pin "2" (uuid 4735f7af-52c2-4dc7-805d-841e94ea83b7))
+    (property "JLCPCB" "C13585" (at 368.3 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 368.3 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b9f858c7-08b8-4ba3-bdf3-ba6e94458cc0))
+    (pin "2" (uuid fb822d8b-2a8c-4de7-a70c-281865c73fba))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6593,7 +6827,7 @@
     (property "Datasheet" "" (at 323.85 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8282847b-1040-4f30-8d59-6152fff29f1c))
+    (pin "1" (uuid 830fa535-e1aa-4d8e-8dfd-148d89d408bd))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6621,7 +6855,7 @@
     (property "Datasheet" "" (at 201.93 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c54ef35b-41b7-4c85-be5f-0f2b76b0e821))
+    (pin "1" (uuid b5744982-5dd0-4d61-be25-0e29d4ee7f1e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6649,7 +6883,7 @@
     (property "Datasheet" "~" (at 138.43 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ca88cc3-5256-43eb-824c-933808667f93))
+    (pin "1" (uuid c871cbc9-57dc-401e-8de7-93708b18e875))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6674,7 +6908,7 @@
     (property "Datasheet" "" (at 143.51 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 62a022ac-33de-4c8f-a3b8-fd75dd767d66))
+    (pin "1" (uuid ea1a1625-8e02-45df-842c-61f41bf4c4e0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6702,7 +6936,7 @@
     (property "Datasheet" "~" (at 109.22 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c8d77c6d-403e-4257-8406-8ec503ac2a22))
+    (pin "1" (uuid 33876874-5121-4cdc-b5dc-de7379ca4de2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6727,7 +6961,7 @@
     (property "Datasheet" "" (at 149.86 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8f9497a-30df-47dc-b6c8-973bde607ead))
+    (pin "1" (uuid 484814a9-438c-4103-9ea0-cabebcae96c0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6755,8 +6989,14 @@
     (property "Datasheet" "~" (at 143.51 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8900e6b9-d32a-4ac2-a5b7-f87fde89ee93))
-    (pin "2" (uuid 943cffa6-3e4e-411d-9939-2daeb642336e))
+    (property "JLCPCB" "C2831718" (at 143.51 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 143.51 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 08540052-294c-4d8f-bda5-02c7ffecd573))
+    (pin "2" (uuid 5a490544-00cf-41be-998c-32bbecb34679))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6784,7 +7024,10 @@
     (property "Datasheet" "~" (at 383.54 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f7e7b61f-a7ed-4c49-80f4-286eea24522d))
+    (property "LCSC Part" "" (at 378.46 143.51 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d3c73103-0974-4dcc-aa52-5fbe484d2949))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6809,7 +7052,7 @@
     (property "Datasheet" "~" (at 80.01 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a580a5a-501b-4a86-87e9-339481d9e112))
+    (pin "1" (uuid 52d3cd62-4ec9-43f6-9a3c-57859e070585))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -6837,56 +7080,59 @@
     (property "JLCPCB" "C150435" (at 293.0525 210.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (pin "11" (uuid eaca6b3e-7267-4dcc-bec0-91a1f755d310))
-    (pin "12" (uuid f6ead497-62d9-42da-a9d7-f51c3cd57905))
-    (pin "14" (uuid ae917f22-c43f-4b86-a6e3-e3012ce267c8))
-    (pin "15" (uuid 1fb5b1a7-65a4-4d39-a7cf-9324736f2c8f))
-    (pin "16" (uuid f7ab9d95-c6d8-47b0-80b1-d490ae3f5af1))
-    (pin "17" (uuid f5400493-9f7f-4338-853d-89cdaad54333))
-    (pin "18" (uuid 7814e010-4371-420a-b617-99477f10e404))
-    (pin "19" (uuid f4101e9f-d30a-45c0-890f-d65d9d80285c))
-    (pin "2" (uuid 77dc6f5b-5fac-4919-aeeb-731505caca3d))
-    (pin "20" (uuid bc515884-941c-4bc6-b833-915c72119571))
-    (pin "21" (uuid 46df4200-3855-44b0-859f-dd41f2d095bb))
-    (pin "22" (uuid 188b69d8-777f-461c-a1c5-0cdd5eb707bd))
-    (pin "23" (uuid 6dd76e6b-decd-4c68-89f3-9a032636a250))
-    (pin "24" (uuid 0149e420-c020-4d3e-a773-ba57051ae431))
-    (pin "27" (uuid 804c6f5c-b750-4147-84c4-1a47eba4cb4b))
-    (pin "28" (uuid 7e1d0496-1dd1-42d8-b499-6c21b6b0cc20))
-    (pin "29" (uuid 03fc13d2-6aed-488b-9b1a-c0327bede8e0))
-    (pin "3" (uuid 4e860690-40e2-41a4-b505-cb22a3e82ed7))
-    (pin "30" (uuid 0f5e7269-6542-4cda-b5bd-d079abc6d1a8))
-    (pin "31" (uuid c2683f44-047e-4330-b467-e3fc56aefd74))
-    (pin "32" (uuid 0263ced9-b04e-4ec2-8f46-78510411298c))
-    (pin "34" (uuid 56718e5d-0ff6-4d79-b7b3-50865b0faf3a))
-    (pin "35" (uuid e303c717-017f-4a8f-ab06-ba40903d5a15))
-    (pin "36" (uuid e20da0b4-8b3f-4499-a074-265ce443fa75))
-    (pin "39" (uuid f62f83cf-e7f5-451c-9d6c-7ea18f18c518))
-    (pin "40" (uuid 3ce7ce8c-04ba-44f1-87e2-20c901bf5cd1))
-    (pin "42" (uuid d9075210-e40e-4a1d-aecd-747845bbf1a0))
-    (pin "43" (uuid 1466c234-6978-4ce6-9468-0c28ef125abc))
-    (pin "45" (uuid 65459bff-cc1a-46d1-a7b9-1ebf774484ca))
-    (pin "46" (uuid a9311627-e250-40c5-bf1f-a4e2500fa00d))
-    (pin "48" (uuid 5a1e4154-5f34-47c5-9b54-6d271349f638))
-    (pin "49" (uuid 05aad74e-0804-4606-9e7c-d93045f3328e))
-    (pin "5" (uuid 10e308dc-d720-4af1-b61a-852e82ad096e))
-    (pin "6" (uuid 8320c212-400b-4ff0-8ba4-1ba6d70ede78))
-    (pin "8" (uuid b54eaf22-3ca0-492f-bcc4-e35adc914592))
-    (pin "9" (uuid fe2b29ab-2b6c-4a32-8346-6f141835ce3b))
-    (pin "1" (uuid 5e120e5b-c337-46c4-bb8e-82ca693b1a2b))
-    (pin "10" (uuid ec93dd7b-85c3-4919-b38c-7af044cb307c))
-    (pin "13" (uuid 43a612d8-5194-438b-9a04-7219cc98858a))
-    (pin "25" (uuid 1f566425-dde5-427d-9fce-4b9585256df0))
-    (pin "26" (uuid a9683a65-b5cd-4d61-a670-9c0cabaacb61))
-    (pin "33" (uuid bb3914cd-715d-4338-a0d0-87f6c27a41fe))
-    (pin "37" (uuid 6e41b026-6803-4014-ae84-6344d9e0f1d5))
-    (pin "38" (uuid cdd7567e-2306-4d9b-88bf-1ea8fa854e62))
-    (pin "4" (uuid 7966cd00-c0ca-4bd7-8460-7e9869e52a23))
-    (pin "41" (uuid 24db3752-6917-48ee-8a14-b594df5572f0))
-    (pin "44" (uuid df3f67b5-5f7c-4ade-9050-1da270da4664))
-    (pin "47" (uuid e0f7137b-e268-4b0d-b10a-9e8ef486a2e6))
-    (pin "50" (uuid 5934acc3-fbcf-4ad1-9fb8-b9adbb5c928c))
-    (pin "7" (uuid da4a15f2-1046-4eef-ace3-44686e63bc2a))
+    (property "LCSC Part" "C150435" (at 294.64 215.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "11" (uuid 87059357-4afe-4725-96fe-f4e5862b2df1))
+    (pin "12" (uuid 054c4a99-352b-4c5e-b99f-5a56f072065a))
+    (pin "14" (uuid 46f5d0af-e549-4ac9-97b2-3a3bc4c2c8da))
+    (pin "15" (uuid b3f959b4-8d8e-4506-bc0b-8e364a3b8d27))
+    (pin "16" (uuid 2df2afaf-773c-482c-b895-827b86d9d808))
+    (pin "17" (uuid 26b3f6d5-c7b2-4b83-83f6-ecaa93c9dfa4))
+    (pin "18" (uuid a3815d64-fed6-41cb-bdfc-09be6238bf4c))
+    (pin "19" (uuid cde21a04-cc1b-40b7-969a-2c25510f6d58))
+    (pin "2" (uuid 79e0d079-c415-4124-ad9a-ab519ec8ad08))
+    (pin "20" (uuid 8c52f7bc-2f4a-41e8-9c0d-f65d94e3ca1a))
+    (pin "21" (uuid b657237a-1b64-4b56-8236-bb91c1c16123))
+    (pin "22" (uuid 73132f33-d5f2-4ba8-b48b-2cf9413d34d8))
+    (pin "23" (uuid e554f412-a918-49b3-8aaf-2f71165e33cc))
+    (pin "24" (uuid 79e4a2c7-84e8-4ada-9648-64c1dbf4bd9e))
+    (pin "27" (uuid 5e79042d-2590-44a8-82c7-edb90e0ffe79))
+    (pin "28" (uuid 6a731210-0902-44c2-b948-a67e5768ac28))
+    (pin "29" (uuid eafb5430-9583-4d73-b3fb-1aa32593d959))
+    (pin "3" (uuid 22d99e7a-d53f-4093-adbb-2181d7d1da0c))
+    (pin "30" (uuid e8532925-883e-4582-b055-f333825ce458))
+    (pin "31" (uuid ce3dc6fd-770a-4746-8395-d4b963b365cc))
+    (pin "32" (uuid 7080b40f-e0a7-406c-b644-b140a1b29dc2))
+    (pin "34" (uuid 25912867-eb1a-43c1-8f7d-6da08d85d2aa))
+    (pin "35" (uuid 9700b450-508a-4e05-92ae-d641c4f7e6ff))
+    (pin "36" (uuid e41bc278-7abd-4745-ac03-1defad38addd))
+    (pin "39" (uuid 95e7a5f1-bd82-425c-b7f9-0afec15a5069))
+    (pin "40" (uuid 801418ca-8fdc-4177-bf71-a4b23bc292e5))
+    (pin "42" (uuid cec37ea2-f4c2-41b6-a4b4-2529f063f1b4))
+    (pin "43" (uuid 15649678-da42-4d06-a5e4-f3c39f8b3e1a))
+    (pin "45" (uuid c7f6fc29-b0c3-4358-bdca-c8aa7f5f337e))
+    (pin "46" (uuid 78f46acb-259d-41c5-8bce-a4a038abb8da))
+    (pin "48" (uuid 7e7ef05d-0b64-45f4-bb7d-3f05b7266c53))
+    (pin "49" (uuid 03851f2d-cef3-4452-8c21-ce33fd1cdd4b))
+    (pin "5" (uuid 11352b4a-31c1-4c26-bfb6-a22accab218a))
+    (pin "6" (uuid 9c3345fc-5b3b-462e-b48a-472280da6a29))
+    (pin "8" (uuid cf8e7a33-6838-41ac-b551-bc9243496060))
+    (pin "9" (uuid 1d3d5847-ba50-4f6e-bb35-91700c82709d))
+    (pin "1" (uuid 802a2cf5-0333-4f6d-985a-db893f2c5de6))
+    (pin "10" (uuid 2f025d4e-acf2-472a-a23c-f77768697ad9))
+    (pin "13" (uuid b2d64d7d-8f40-4ca4-acf5-4ca252990a49))
+    (pin "25" (uuid f9f8bb99-6607-44a2-b064-84b3d8e3396b))
+    (pin "26" (uuid b859020e-8b62-4d11-8e5d-f11165a627fa))
+    (pin "33" (uuid cf3c2cfc-1ba5-4d0f-bfc0-76a2c05e8992))
+    (pin "37" (uuid 889868cf-8fd5-4b0a-badf-aacb7e7a29ba))
+    (pin "38" (uuid 4cce6e01-afc9-4846-8eb0-8d3e6c1e99aa))
+    (pin "4" (uuid 1b049b8c-2b26-461b-a216-aa275977bc82))
+    (pin "41" (uuid f060ec25-c7fd-445d-af32-f838229dd33d))
+    (pin "44" (uuid e6c1e8a1-877d-4e93-9e43-3afe0878d34a))
+    (pin "47" (uuid f76db064-f611-4786-96b9-def5f89e0aed))
+    (pin "50" (uuid 7cb0cb65-ea05-4de2-8df7-b6986a1acbf5))
+    (pin "7" (uuid 93857a59-a3b2-45b8-89f1-42056a33fb09))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/51aec99e-3301-49b6-8e7f-31ba63a05d64"
@@ -6914,8 +7160,14 @@
     (property "Datasheet" "~" (at 49.53 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ec9bc4ff-934b-4a69-9be3-1647c8986cbf))
-    (pin "2" (uuid 1fda8bea-adf1-4936-91ce-c93e5d9f478f))
+    (property "JLCPCB" "C2831718" (at 49.53 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 49.53 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 488d1169-e18f-4774-b61e-8a20f78b23cf))
+    (pin "2" (uuid 8f6c4496-0729-4298-ab18-2e806b12006a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6946,14 +7198,17 @@
     (property "JLCPCB" "C161797" (at 107.95 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fa9bdbe0-14a5-42f4-b8ed-bd69a02340cb))
-    (pin "2" (uuid b3e038cf-68f7-4673-b055-7a0aa6281eed))
-    (pin "3" (uuid 78142049-1631-4bc9-a929-e064f7174192))
-    (pin "5" (uuid c2ac9bcf-ec1b-4b9c-ae19-a634d190b603))
-    (pin "6" (uuid f5ec58d0-233a-4771-b979-7e082f3c9c1a))
-    (pin "7" (uuid eee4d22b-be46-4812-b593-42dc375df002))
-    (pin "4" (uuid a163aaa2-8acf-452e-b97d-a112384125ef))
-    (pin "8" (uuid 209f2a82-1984-4f31-a50d-b77fb534c0d4))
+    (property "LCSC Part" "C161797" (at 107.95 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3a014829-dd2a-4995-acc0-6e89231a899f))
+    (pin "2" (uuid 1411805a-a9d7-4803-bf74-66b3ded9b51b))
+    (pin "3" (uuid 11416868-a94a-4cd1-9fca-89710b4cf695))
+    (pin "5" (uuid 4083884f-3b4d-48af-80e3-ff1c954fecad))
+    (pin "6" (uuid 46de3f98-4d3e-4a99-8987-268ea85f32e2))
+    (pin "7" (uuid 37f5a0b5-c11d-46bf-baef-00a54a1e39dd))
+    (pin "4" (uuid bc5538ff-d829-4292-8d0a-1b335360541e))
+    (pin "8" (uuid 6634a93a-bb4b-46f8-9f00-2afb7d62c35d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -6984,7 +7239,7 @@
     (property "Datasheet" "" (at 201.93 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d532f9f0-5e39-48bb-bc91-dc58f430b972))
+    (pin "1" (uuid ba6fa8e3-583e-45bd-a90b-7e7a86bf1f1e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7012,8 +7267,14 @@
     (property "Datasheet" "~" (at 95.25 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1944ea9b-cf35-4dc8-bd57-eb6090f891e4))
-    (pin "2" (uuid db36fb09-1109-4a45-a97e-bdfcdba594bf))
+    (property "JLCPCB" "C13585" (at 95.25 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 95.25 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bc6cbaa6-0e96-4b95-9014-24103ecf5be9))
+    (pin "2" (uuid 27520fc4-23c8-4c5f-a12e-52c2987d881e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7041,8 +7302,14 @@
     (property "Datasheet" "~" (at 199.39 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dfc8e456-0149-40df-bbc6-fbebc7555c05))
-    (pin "2" (uuid 222f5ee5-004f-4fb3-a133-daab720faa94))
+    (property "JLCPCB" "C13585" (at 199.39 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 199.39 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid abc3b215-04d9-4093-9d82-9bfeecb4fe22))
+    (pin "2" (uuid c50421bd-0b6a-4f41-9b46-c0803184013c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7070,7 +7337,7 @@
     (property "Datasheet" "~" (at 85.09 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5b591d93-65d8-474d-98a2-7fd42cc68d17))
+    (pin "1" (uuid 9dd886cf-2344-41ef-9242-2f9cf8eeeec2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7095,7 +7362,7 @@
     (property "Datasheet" "" (at 165.1 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 51cd1330-4511-4b01-a0d5-fa93d112f0ee))
+    (pin "1" (uuid ad478e8a-0ce5-4fbe-80c9-317f9a0f6f88))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7123,7 +7390,7 @@
     (property "Datasheet" "" (at 363.22 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 248f7302-8921-405e-be77-cd583bbbf6d9))
+    (pin "1" (uuid c9b4df43-b7ca-43ee-b8f1-41fb90d3db79))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7142,7 +7409,7 @@
     (property "Reference" "C47" (at 107.95 245.7386 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 107.95 248.2786 0)
+    (property "Value" "100nF" (at 107.95 248.2786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 110.49 246.38 0)
@@ -7151,8 +7418,14 @@
     (property "Datasheet" "~" (at 110.49 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ad46fbf-de0a-48f7-b66a-1e6d4f2db705))
-    (pin "2" (uuid 018b16a0-55a0-4879-8537-2be8d59f4215))
+    (property "JLCPCB" "C14663" (at 110.49 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 110.49 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c5092e56-0493-4411-a78f-f3d7dcd0d80d))
+    (pin "2" (uuid 22dd71d6-e0da-4a68-a824-46b61085cb27))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7186,7 +7459,10 @@
     (property "Datasheet" "~" (at 383.54 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 53982898-8278-49aa-af0d-f982f04c2933))
+    (property "LCSC Part" "" (at 378.46 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9c3c4816-3d88-4304-a436-f5dfa53f3cad))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7211,8 +7487,14 @@
     (property "Datasheet" "~" (at 191.77 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 35a37d14-2974-4489-b8bf-50979a4f347c))
-    (pin "2" (uuid ab350d79-b2a4-4d32-98de-7a1e592c23d3))
+    (property "JLCPCB" "C13585" (at 191.77 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 191.77 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid eadaccf6-05e1-4718-8843-260f6b8c2cd6))
+    (pin "2" (uuid 05827719-6001-47aa-888f-1c9c42e4d840))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7240,7 +7522,7 @@
     (property "Datasheet" "~" (at 62.23 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac407984-8a47-471a-8ad0-61b0a516d457))
+    (pin "1" (uuid 9730180f-7b06-4c51-895c-3f1f7c6d9a96))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7265,8 +7547,14 @@
     (property "Datasheet" "~" (at 160.02 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b6e196a0-9784-4645-8676-2486411f7211))
-    (pin "2" (uuid fce895a2-cb3a-41c4-8c9c-63c602f38485))
+    (property "JLCPCB" "C13585" (at 160.02 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 160.02 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 49ec9258-780c-4c72-8e58-e9b62c6b6b63))
+    (pin "2" (uuid 4611c5dd-e9ea-40e0-9ab5-6cc88aac8c39))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7294,7 +7582,7 @@
     (property "Datasheet" "" (at 191.77 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ce57c0d3-6e46-481c-9448-07e83a0101a1))
+    (pin "1" (uuid b40b3145-20e7-4b7e-8990-71c1b3651bc9))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7325,9 +7613,12 @@
     (property "JLCPCB" "C8623" (at 213.36 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 982b362e-b533-4358-9090-c2470ba9659d))
-    (pin "2" (uuid b4266135-0620-4d9c-961f-2e22e8dac462))
-    (pin "3" (uuid f93b6d00-1836-4084-92b1-0e92b9da7d0b))
+    (property "LCSC Part" "C8623" (at 213.36 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 13ce5add-1427-4bf1-bce1-45358d747958))
+    (pin "2" (uuid 1229a446-4a6f-4f7f-b0e2-2be8e4cb6fb8))
+    (pin "3" (uuid 83970326-66b5-4324-b92a-c098e0eed4c5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7352,7 +7643,7 @@
     (property "Datasheet" "" (at 247.65 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a52d9da8-5228-4343-91be-5c8985dbb1c9))
+    (pin "1" (uuid 3bba06db-b59a-42a5-825c-fc75096203a3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7371,7 +7662,7 @@
     (property "Reference" "C47" (at 96.52 245.7386 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 96.52 248.2786 0)
+    (property "Value" "100nF" (at 96.52 248.2786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 99.06 246.38 0)
@@ -7380,8 +7671,14 @@
     (property "Datasheet" "~" (at 99.06 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58715a2e-93ec-4178-b2dc-d7faf5fa59b1))
-    (pin "2" (uuid c3ebf40f-062e-46a6-bf84-23e322eb66c7))
+    (property "JLCPCB" "C14663" (at 99.06 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 99.06 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2f4fb532-7041-498f-8d53-b83e8ca6e38f))
+    (pin "2" (uuid cc237880-1017-41cb-91a7-3c860c58b240))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7415,7 +7712,7 @@
     (property "Datasheet" "" (at 311.15 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 57f5ff21-de31-4e54-9501-3f9a3b6fda88))
+    (pin "1" (uuid dc653fac-b3d1-46ef-9419-ac19644b080f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7434,7 +7731,7 @@
     (property "Reference" "C29" (at 344.17 104.3432 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100uf" (at 344.17 106.8832 0)
+    (property "Value" "100uF" (at 344.17 106.8832 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 346.71 113.03 0)
@@ -7443,8 +7740,14 @@
     (property "Datasheet" "~" (at 346.71 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5d7ddb7b-81c4-45a2-a4af-d432c0ed15f6))
-    (pin "2" (uuid 753e00f7-b5e8-4be7-89db-673b7a18af2a))
+    (property "JLCPCB" "C2831718" (at 346.71 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 346.71 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3b6e6e1e-3770-4dce-bd58-c43b881034f9))
+    (pin "2" (uuid 1dafc848-06d0-437b-b95d-dff8c17e73b6))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7472,7 +7775,10 @@
     (property "Datasheet" "~" (at 265.43 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb55dbe4-0bab-4e36-9577-1dcd54382c3c))
+    (property "LCSC Part" "" (at 260.35 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 807da128-c295-41e0-bba6-15c90669d192))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7497,8 +7803,14 @@
     (property "Datasheet" "~" (at 165.1 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4e2f386e-4ae7-4316-bf25-d8b7efb7352c))
-    (pin "2" (uuid 173fdfe1-bce4-42b2-bbe6-0b6cfc79b756))
+    (property "JLCPCB" "C13585" (at 165.1 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 165.1 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0dd2e619-bf23-4922-9b5e-6ad7e02adf1a))
+    (pin "2" (uuid e17e1dcc-93b4-4377-b99c-04c638e66224))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7517,7 +7829,7 @@
     (property "Reference" "C29" (at 345.44 57.3532 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100uf" (at 345.44 59.8932 0)
+    (property "Value" "100uF" (at 345.44 59.8932 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 347.98 66.04 0)
@@ -7526,8 +7838,14 @@
     (property "Datasheet" "~" (at 347.98 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ccbb913e-48da-48f2-8eff-09eb45b8cebf))
-    (pin "2" (uuid 1a8c6412-0e94-4377-9a32-17efc5cb2cc9))
+    (property "JLCPCB" "C2831718" (at 347.98 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 347.98 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a89a9f3a-5942-46f8-b313-86d0ddee08ab))
+    (pin "2" (uuid 4bb0f1a7-f110-4437-837a-e8881d9d06a4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7555,8 +7873,14 @@
     (property "Datasheet" "~" (at 186.69 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fe601cc7-c38c-4116-9c7d-279a821447b8))
-    (pin "2" (uuid 0862ec33-08b9-4b4c-b2bc-da2f3526f40b))
+    (property "JLCPCB" "C13585" (at 186.69 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 186.69 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid abb61754-236a-4a26-a821-9d849ddd094e))
+    (pin "2" (uuid bdb66b88-c9a3-4bde-b36d-edc255d23596))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7584,8 +7908,14 @@
     (property "Datasheet" "~" (at 149.86 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 011d9038-117a-44bf-8742-acd05e8dc54c))
-    (pin "2" (uuid d6055777-6d27-4c7d-ae60-738834148ae3))
+    (property "JLCPCB" "C13585" (at 149.86 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 149.86 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 82d7432e-3ffd-4269-98e0-89df05f54ecb))
+    (pin "2" (uuid 80521a28-bbd9-4b4d-b8a3-e388320ac888))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7613,7 +7943,7 @@
     (property "Datasheet" "" (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b243b39-c958-4080-92a3-482f6a46cc27))
+    (pin "1" (uuid 1d77f0ae-c24c-4dbf-a49a-c89763ba9a16))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7641,8 +7971,14 @@
     (property "Datasheet" "~" (at 55.88 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f02f79fe-b159-47a0-8c62-1a4290d00f73))
-    (pin "2" (uuid f83d7382-0d04-457b-81a0-22fcc7c2d47a))
+    (property "JLCPCB" "C2831718" (at 55.88 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 55.88 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6bf5224c-2206-4d08-a244-4a3dfa9d9374))
+    (pin "2" (uuid 23f5e971-30aa-4e37-9722-ee391382aab7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7670,7 +8006,7 @@
     (property "Datasheet" "" (at 227.33 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c9a0300a-f6cf-4367-9ed0-b9a388bd0e20))
+    (pin "1" (uuid 103fa5ad-70ec-4e2a-a657-d6a04e745734))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7689,7 +8025,7 @@
     (property "Reference" "C29" (at 344.17 139.9032 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100uf" (at 344.17 142.4432 0)
+    (property "Value" "100uF" (at 344.17 142.4432 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 346.71 148.59 0)
@@ -7698,8 +8034,14 @@
     (property "Datasheet" "~" (at 346.71 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ab10833-f91b-4323-8210-cad23e979c24))
-    (pin "2" (uuid 1d8e5f6c-3809-4107-a3e1-4999e20e76e8))
+    (property "JLCPCB" "C2831718" (at 346.71 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 346.71 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 340a6635-a008-4a2b-addf-30b1d284c367))
+    (pin "2" (uuid ad50bdbd-4306-41d9-9aaf-99081c23afce))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7727,8 +8069,14 @@
     (property "Datasheet" "~" (at 311.15 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 55c9f72f-0395-475f-a940-7991a3d19a9c))
-    (pin "2" (uuid 2d83661a-8e39-4531-acf8-7fd7d320c21f))
+    (property "JLCPCB" "C13585" (at 311.15 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 311.15 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d25f1141-6d5b-4352-b718-844ed4841f9d))
+    (pin "2" (uuid ca8f4de9-bd90-4041-bba3-3ac894ed28f0))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7756,7 +8104,7 @@
     (property "Datasheet" "" (at 204.47 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3725bf39-dcf8-4c15-bf01-decd9d789d2a))
+    (pin "1" (uuid 7ef7f4f9-2d9e-4df5-85b8-c2b261daa2d1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7784,7 +8132,7 @@
     (property "Datasheet" "" (at 181.61 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d1fbc8bb-f92b-4747-bb3e-28a281c7cdb9))
+    (pin "1" (uuid 36bb0331-3b12-40b9-a971-7aa612f7e23e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7812,7 +8160,7 @@
     (property "Datasheet" "~" (at 100.33 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c56d537-8364-4b5b-8c98-23e995712322))
+    (pin "1" (uuid 25202641-fb50-4815-8ff4-b7afe9c55982))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -7837,7 +8185,7 @@
     (property "Datasheet" "" (at 346.71 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d05a29f4-beb4-4bda-9356-6cbbd8a60dd4))
+    (pin "1" (uuid 51ac0da6-cd49-4964-9ae9-7f16b857df3b))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7865,7 +8213,7 @@
     (property "Datasheet" "" (at 237.49 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf7c93a1-96a8-43c5-b863-a2cf39cf7648))
+    (pin "1" (uuid 391769b7-201e-4dfa-bd15-4120a0bae56f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7893,8 +8241,14 @@
     (property "Datasheet" "~" (at 72.39 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a80de44-b920-4cea-bd2b-99fcf0afde54))
-    (pin "2" (uuid 74825e2c-8baa-48cf-9c15-4f1ac3039699))
+    (property "JLCPCB" "C13585" (at 72.39 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 72.39 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c5ba0b93-cfc1-4123-905d-cbde60e99865))
+    (pin "2" (uuid 27d9da32-27fc-4211-a8f8-492d6a3bbdf8))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7922,7 +8276,7 @@
     (property "Datasheet" "" (at 317.5 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba2320bc-a046-4bcb-aa35-0487dcdf6979))
+    (pin "1" (uuid c6504f2e-e836-4b94-9a0b-8e87dfaf7988))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7950,8 +8304,14 @@
     (property "Datasheet" "~" (at 237.49 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fe8de69d-35aa-4bd8-bcbe-6095813cfb77))
-    (pin "2" (uuid 0cddd24e-2072-41c5-beeb-8580e4793d42))
+    (property "JLCPCB" "C13585" (at 237.49 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 237.49 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid edb00230-b911-4eb6-8fcf-232f4756fa62))
+    (pin "2" (uuid a10c3633-f8c5-42b2-8040-c13c2e138088))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -7979,8 +8339,14 @@
     (property "Datasheet" "~" (at 154.94 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c354021-1f7c-416e-b22e-91f114f2abd2))
-    (pin "2" (uuid b28b90db-1426-4328-bec5-e9aae0c583ff))
+    (property "JLCPCB" "C13585" (at 154.94 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 154.94 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 87be4ec9-4ac4-47c3-8735-bd77e5de36a9))
+    (pin "2" (uuid 53c103d0-66cb-4650-aa91-c8d6e738a15e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8008,8 +8374,14 @@
     (property "Datasheet" "~" (at 186.69 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 00b5e0ea-9db9-46e4-9cf4-e871a4a0ec15))
-    (pin "2" (uuid b2eb0f1a-f575-40ee-bba2-05b5f1d68f5f))
+    (property "JLCPCB" "C13585" (at 186.69 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 186.69 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 16fa51f2-fdba-4980-8b0f-548be2e7bd86))
+    (pin "2" (uuid 7f02eea0-24fb-4495-b1f4-aaf2ee513f49))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8037,7 +8409,7 @@
     (property "Datasheet" "" (at 254 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf136c1a-7c9c-4f63-b814-1ed51b4e645f))
+    (pin "1" (uuid ea62037b-ed40-464a-9716-a0347b68c82b))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8062,7 +8434,7 @@
     (property "Datasheet" "" (at 321.5512 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2af24532-1403-4a6b-a2aa-2a5e1b5214fb))
+    (pin "1" (uuid 33e03577-2ba5-4af8-a5de-abf1f4321563))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8090,8 +8462,14 @@
     (property "Datasheet" "~" (at 85.09 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f073535-9e57-489d-a881-c25c34288a3e))
-    (pin "2" (uuid 6bbde467-11e5-41df-acd0-b1ae1fb2e261))
+    (property "JLCPCB" "C14663" (at 85.09 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 85.09 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bec4c90e-e0c7-42ba-b8ff-fad0681f21f2))
+    (pin "2" (uuid f8c01196-087e-4a17-8a01-b8b616c47121))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8119,7 +8497,7 @@
     (property "Datasheet" "" (at 373.38 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 78a123bc-c721-4114-89d9-47ddc4456b65))
+    (pin "1" (uuid 6005face-0e0c-45d9-aaf8-c6e3b00583fd))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8144,7 +8522,7 @@
     (property "Datasheet" "" (at 186.69 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ce8be645-4779-40dd-8a5e-aad02c6399cc))
+    (pin "1" (uuid 8329c2c2-462d-4990-b5f0-3e0a75a4de2d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8172,7 +8550,7 @@
     (property "Datasheet" "" (at 317.5 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b419d15b-634c-4ff7-88fc-7c9ee8a77dd0))
+    (pin "1" (uuid 9b50f8e0-c311-447c-b6d5-b2eb5c5a1ef5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8200,7 +8578,7 @@
     (property "Datasheet" "~" (at 72.39 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5c3e6abe-9aa8-40f9-8d62-27726605b573))
+    (pin "1" (uuid 16107e18-add4-40ac-8356-7189487a0185))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8225,8 +8603,14 @@
     (property "Datasheet" "~" (at 306.07 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbd3f00f-3dfe-4b1d-9d2d-7c2a59899f3f))
-    (pin "2" (uuid de348236-bc41-4315-a3fb-61a344bfefcb))
+    (property "JLCPCB" "C13585" (at 306.07 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 306.07 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dcc3313e-be19-4ec1-b732-0e6e371e62ee))
+    (pin "2" (uuid 475471a8-8a2e-451e-8864-93d5594fc1ce))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8254,8 +8638,14 @@
     (property "Datasheet" "~" (at 353.06 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5912762a-8067-4d71-8d31-80e36c329791))
-    (pin "2" (uuid 71703d32-30d5-4490-8c20-1ca0572a6e60))
+    (property "JLCPCB" "C13585" (at 353.06 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 353.06 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4292c9be-416f-4f1b-ad2c-16d33307ead9))
+    (pin "2" (uuid 6d747cdb-c9a6-4ff5-ace5-549ccec7575d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8283,7 +8673,10 @@
     (property "Datasheet" "~" (at 266.7 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65e68120-434c-4d7f-a6d7-24496e924760))
+    (property "LCSC Part" "" (at 261.62 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1f943683-48c2-4e1e-8556-293c1d15adf7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8308,8 +8701,14 @@
     (property "Datasheet" "~" (at 181.61 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c0cc173f-4790-4b76-b8b4-1188f31fc562))
-    (pin "2" (uuid 4d4306d8-5489-49ce-8dd5-9a6f68003ee4))
+    (property "JLCPCB" "C13585" (at 181.61 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 181.61 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 62393a7a-36ed-40aa-88ec-c584d3965083))
+    (pin "2" (uuid 15280387-b262-4c3c-9ee2-7afc61ffe731))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8337,8 +8736,14 @@
     (property "Datasheet" "~" (at 55.88 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86a7390a-b0b7-4bb1-aa33-50b02f69a3ba))
-    (pin "2" (uuid e3f88491-0c19-4217-95ee-c4df4f4107f9))
+    (property "JLCPCB" "C13585" (at 55.88 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 55.88 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 74b42971-2ad5-4ae9-9271-04c286393433))
+    (pin "2" (uuid cbe207f9-a54f-404e-8736-2d5b12d766de))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8366,7 +8771,7 @@
     (property "Datasheet" "" (at 181.61 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1005bc0b-85fe-4f4c-85d5-136ac53362dd))
+    (pin "1" (uuid 2ec10cf9-b42a-4e80-a837-de4f5df481e9))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8394,8 +8799,14 @@
     (property "Datasheet" "~" (at 369.57 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c2a4ec2a-d9d7-4d71-a44e-2d5d416f8be1))
-    (pin "2" (uuid 07c50fd0-61dc-4972-8bb6-5ce489a58340))
+    (property "JLCPCB" "C13585" (at 369.57 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 369.57 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dd24ad4a-3422-41ee-acf4-2842a1f046e8))
+    (pin "2" (uuid 263329a7-0e53-4e10-a3ae-2d823a218cd2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8423,8 +8834,14 @@
     (property "Datasheet" "~" (at 68.58 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dccb606c-12f0-4909-bdee-8e46243b7471))
-    (pin "2" (uuid 9d817e06-5ddb-4b93-bbf4-3ff618a7199c))
+    (property "JLCPCB" "C2831718" (at 68.58 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 68.58 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 28dcf873-a0ff-4af4-95b5-1a2e1bab9ef5))
+    (pin "2" (uuid 076ae6a4-291f-4a82-9ec8-bbd257d69272))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8452,8 +8869,14 @@
     (property "Datasheet" "~" (at 143.51 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a2c55b8-b691-46cf-ae71-905530924080))
-    (pin "2" (uuid 299deeaa-74db-49ce-8efb-defa5e173e30))
+    (property "JLCPCB" "C2831718" (at 143.51 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 143.51 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ec810dbc-9fe4-40cf-9168-c2922de84be5))
+    (pin "2" (uuid 746ed10a-5cac-4765-99c9-ce3a91aabb87))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8481,7 +8904,7 @@
     (property "Datasheet" "" (at 354.33 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65fc8ec6-c4e8-4f34-9694-cc6caba44ff7))
+    (pin "1" (uuid d48e387f-33e6-4aaf-9382-df7d69893856))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8509,8 +8932,14 @@
     (property "Datasheet" "~" (at 196.85 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid aa5da103-30de-4e68-b4bb-5e95ea57a2cf))
-    (pin "2" (uuid 49c3afb7-b54e-4265-96dc-3da56ab560cf))
+    (property "JLCPCB" "C13585" (at 196.85 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 196.85 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 13a5e847-5f23-497f-adb7-8e48e72752a6))
+    (pin "2" (uuid cb352d0b-8b7f-4ca1-9573-949f6de2b96a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8538,8 +8967,14 @@
     (property "Datasheet" "~" (at 154.94 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ea384c76-3bcb-4f2c-bec1-28e91cd231d5))
-    (pin "2" (uuid fce60570-f46a-4617-a28a-9829bc2348fa))
+    (property "JLCPCB" "C13585" (at 154.94 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 154.94 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2025ea08-66bb-47bd-90c6-f5544517801c))
+    (pin "2" (uuid bc9fc852-7c01-4e5c-85e5-f0e708bbfef7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8570,8 +9005,11 @@
     (property "JLCPCB" "C242335" (at 135.89 83.82 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 74584676-cb45-46c1-9eb3-ffe3fe2eaafc))
-    (pin "2" (uuid beb04839-fb03-4ea1-9fce-6a37b015f9c7))
+    (property "LCSC Part" "C242335" (at 135.89 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 85ccb119-9af0-43bd-bddd-c3a0978467a1))
+    (pin "2" (uuid a5d70f4d-5442-4e3b-a077-b483d5bf750a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8596,7 +9034,7 @@
     (property "Datasheet" "" (at 215.9 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e8c897f-5cda-4da2-ab51-7e85320c73d4))
+    (pin "1" (uuid 11865925-39dc-477e-b2c1-42d8041b0630))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8624,7 +9062,7 @@
     (property "Datasheet" "" (at 147.32 254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dfe0f9d1-d72e-4a64-b2f0-9876773e6908))
+    (pin "1" (uuid c24a4052-5faf-4c8c-a9b8-a3d6e945fdc2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8652,7 +9090,7 @@
     (property "Datasheet" "" (at 347.98 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2cb91531-ade3-4489-a0dd-c396a6301f09))
+    (pin "1" (uuid ca4dfa4a-f07a-47ca-91cd-fe109fdd3493))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8680,7 +9118,7 @@
     (property "Datasheet" "" (at 303.53 227.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 146230ea-38b8-4b16-afec-48c8946c91b0))
+    (pin "1" (uuid d2c9329f-a1e7-415b-857f-6749cb4ace0d))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8708,7 +9146,7 @@
     (property "Datasheet" "" (at 364.49 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b421511-c8d1-4011-89af-2b19f60f5db1))
+    (pin "1" (uuid fa8f50d3-a334-40b9-b751-b87b46858b78))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8739,8 +9177,11 @@
     (property "JLCPCB" "C242335" (at 306.07 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 106633ab-f04a-4ec5-b389-00d88690c10c))
-    (pin "2" (uuid a0101b44-fea6-4ad1-b838-a6f9a45a74b0))
+    (property "LCSC Part" "C242335" (at 306.07 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5e4a257e-5137-4366-8798-d6002fa38a5f))
+    (pin "2" (uuid d797960f-8e04-4b90-ba60-066c8a7156cc))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8765,7 +9206,7 @@
     (property "Datasheet" "" (at 295.91 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 82960e94-a0ad-49a3-a27b-c3bb4a6e63a5))
+    (pin "1" (uuid 5afdb4ec-d4c3-4afa-9aaf-eb9e65e7f9de))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8793,7 +9234,7 @@
     (property "Datasheet" "" (at 256.54 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9734cd98-eab3-437e-b383-eeda41494492))
+    (pin "1" (uuid d0ba50d7-5987-404e-b891-58ce8070c206))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -8818,8 +9259,14 @@
     (property "Datasheet" "~" (at 363.22 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 88fd85d5-7224-45f3-bd16-4cd87b4dae89))
-    (pin "2" (uuid 2d35db94-d387-4de1-8175-8ddee65265c7))
+    (property "JLCPCB" "C13585" (at 363.22 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 363.22 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid de87dc6c-2ec8-426a-b096-6812848fd47d))
+    (pin "2" (uuid 17f6b00d-280a-42d6-8dfa-ee5af7ffb3c1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8838,7 +9285,7 @@
     (property "Reference" "C47" (at 87.63 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 87.63 225.4186 0)
+    (property "Value" "100nF" (at 87.63 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 90.17 223.52 0)
@@ -8847,8 +9294,14 @@
     (property "Datasheet" "~" (at 90.17 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e0567645-26c5-4ede-acbc-980408ff637e))
-    (pin "2" (uuid cc230414-b43f-4e99-8ed6-41068d09c8b7))
+    (property "JLCPCB" "C14663" (at 90.17 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 90.17 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0041b22e-76d8-4b39-a0f1-a727c6fcb8d1))
+    (pin "2" (uuid 046a0cce-a3ec-4da2-a59a-1d644d095ecd))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8882,8 +9335,14 @@
     (property "Datasheet" "~" (at 311.15 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 13201e4a-fecb-42c4-9195-917a4f01b017))
-    (pin "2" (uuid 19941975-cf86-4754-bc50-bffdbcd009be))
+    (property "JLCPCB" "C13585" (at 311.15 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 311.15 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bf70d036-46e9-42b4-8b21-e7cffe7d0346))
+    (pin "2" (uuid 8a6352a3-4ad6-4bfc-901f-78defaf3993f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8902,7 +9361,7 @@
     (property "Reference" "C47" (at 107.95 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 107.95 225.4186 0)
+    (property "Value" "100nF" (at 107.95 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 110.49 223.52 0)
@@ -8911,8 +9370,14 @@
     (property "Datasheet" "~" (at 110.49 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb8ac428-c00c-410f-b9ee-8fa7dc811b4b))
-    (pin "2" (uuid bd3584c2-ad09-4c52-9502-18e437d17eb0))
+    (property "JLCPCB" "C14663" (at 110.49 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 110.49 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 73d6a33b-6dcc-49ca-b901-18540ec5f805))
+    (pin "2" (uuid 6a1b7a7c-2da6-4f52-b95e-46bde363efd4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8946,8 +9411,14 @@
     (property "Datasheet" "~" (at 359.41 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a04abc4e-7295-4104-b819-9eb959744a0c))
-    (pin "2" (uuid 18a6c703-53e1-4a32-8d1c-e899facfa8ce))
+    (property "JLCPCB" "C13585" (at 359.41 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 359.41 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5d7a382c-78b5-4902-910c-88147f128203))
+    (pin "2" (uuid 6f69b449-3c06-46b5-91e8-f19f7370955f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -8975,7 +9446,7 @@
     (property "Datasheet" "" (at 316.23 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 98e6d886-cc10-4140-baff-c0a9c8aed3fe))
+    (pin "1" (uuid 5a0a7163-ee3b-4d38-9993-3d39aced4486))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9003,8 +9474,14 @@
     (property "Datasheet" "~" (at 226.06 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37c94473-4aba-4361-8b84-5f639fe36d5b))
-    (pin "2" (uuid 8b80b02e-89ac-4392-b18d-85b58163461e))
+    (property "JLCPCB" "C2831718" (at 226.06 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 226.06 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1d4f4091-c712-405f-8974-3c52e5cc243f))
+    (pin "2" (uuid 7680c148-2238-4967-a8e8-e5c2ccd92065))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9032,7 +9509,7 @@
     (property "Datasheet" "" (at 306.07 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid db53491d-608e-4aed-b266-005b8d1bfa63))
+    (pin "1" (uuid ca3763ba-3106-4f70-9465-3f1c04e2ce88))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9060,8 +9537,14 @@
     (property "Datasheet" "~" (at 317.5 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e97c0b48-9ec7-48cc-bfb7-914ff45baa1f))
-    (pin "2" (uuid ea7914c2-710c-4436-af11-dffca9359456))
+    (property "JLCPCB" "C2831718" (at 317.5 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 317.5 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6dec8395-fb0c-40d4-81e9-f7d733a95b74))
+    (pin "2" (uuid 10781c1b-03f1-4587-a9b1-54723b72a100))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9089,7 +9572,10 @@
     (property "Datasheet" "~" (at 50.8 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2deedf03-463c-4a1c-b44f-10af7a3a9506))
+    (property "LCSC Part" "" (at 45.72 29.21 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d00e15bf-d5b7-4160-a590-22601f02f716))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -9114,7 +9600,7 @@
     (property "Datasheet" "" (at 327.66 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b554534a-d425-4283-b0be-00ef5a3690f1))
+    (pin "1" (uuid fb972037-1ce4-4e6a-b9eb-8c7a10ef93be))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9145,14 +9631,17 @@
     (property "JLCPCB" "C161797" (at 96.52 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1182c4f-49bf-4f57-a9ce-3d8486fb9408))
-    (pin "2" (uuid 39d4b4e6-dbba-4cc4-938a-36ffa91a6908))
-    (pin "3" (uuid a205c786-d66a-43dc-bca5-84a03ac0b83e))
-    (pin "5" (uuid c2ac9bcf-ec1b-4b9c-ae19-a634d190b604))
-    (pin "6" (uuid f5ec58d0-233a-4771-b979-7e082f3c9c1b))
-    (pin "7" (uuid eee4d22b-be46-4812-b593-42dc375df003))
-    (pin "4" (uuid a163aaa2-8acf-452e-b97d-a112384125f0))
-    (pin "8" (uuid 209f2a82-1984-4f31-a50d-b77fb534c0d5))
+    (property "LCSC Part" "C161797" (at 96.52 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8b25d1d3-0f51-4641-a97b-89fdce7180ae))
+    (pin "2" (uuid 3c32146a-10bb-4873-8826-fb53606cf406))
+    (pin "3" (uuid bb89843b-c1ef-4f9a-ae0a-01a5ad6ef087))
+    (pin "5" (uuid 3676a4c1-b601-4428-ba82-b950c346b297))
+    (pin "6" (uuid 50e3d310-5551-41a9-a26d-50fca008287f))
+    (pin "7" (uuid 4e0266f5-f8f5-4168-bbc6-e183be3be089))
+    (pin "4" (uuid 86ae3b6b-ec45-4bfe-a012-139fd2d21b31))
+    (pin "8" (uuid e6b14b54-346a-449c-8a14-9c86e60f1469))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9183,7 +9672,7 @@
     (property "Datasheet" "" (at 337.82 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6e086ab-02d6-4b8d-8f8e-57f3c72efa6a))
+    (pin "1" (uuid 575d4b25-1214-4fb1-b1c3-479cf6386cf3))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9211,8 +9700,14 @@
     (property "Datasheet" "~" (at 186.69 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a15260fb-4a5b-48f6-ba0b-68f2d6300750))
-    (pin "2" (uuid 79591bfa-6f4d-4a8a-8ebf-23312e38f934))
+    (property "JLCPCB" "C13585" (at 186.69 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 186.69 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c75faac3-a6d4-49f6-a644-09ee191db2fe))
+    (pin "2" (uuid dbe1b27a-a166-4004-b509-7392ade6bdee))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9240,7 +9735,7 @@
     (property "Datasheet" "" (at 353.06 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 67111a5c-3f03-4f79-be48-dbe0e0b3fcae))
+    (pin "1" (uuid 18674c85-73d9-4c90-952c-609b4ae95261))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9268,8 +9763,14 @@
     (property "Datasheet" "~" (at 196.85 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 353e430e-e1c2-4408-a039-7f861a4f5b94))
-    (pin "2" (uuid e2168e2d-2c25-4b65-848b-a9003fcf8e1e))
+    (property "JLCPCB" "C13585" (at 196.85 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 196.85 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3011cff5-ff04-49b9-a875-f591529c85e3))
+    (pin "2" (uuid 5ffd2c5e-9963-47bd-a0ce-d408310b1ea6))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9297,7 +9798,7 @@
     (property "Datasheet" "" (at 213.36 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07c89360-a464-4097-b080-c09cae8a55c1))
+    (pin "1" (uuid 2f05d162-355c-4db7-979d-e57822a08e23))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9325,8 +9826,14 @@
     (property "Datasheet" "~" (at 321.5512 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1a01af9-a22f-4f68-9bcc-5131d01f04eb))
-    (pin "2" (uuid b6d71ebc-bd1a-4f99-a7c3-d100a4f96a40))
+    (property "JLCPCB" "C13585" (at 321.5512 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 321.5512 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ba7d7293-c24e-4aba-a7bd-02f0ba98a337))
+    (pin "2" (uuid b676851d-03cb-492d-8be3-dcb136c669ed))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9354,7 +9861,7 @@
     (property "Datasheet" "" (at 143.51 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1aa4a8e-6c3b-44b3-883e-45cff6a772ba))
+    (pin "1" (uuid a4abec3f-0c15-428b-ae0a-219750f5547f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9382,8 +9889,14 @@
     (property "Datasheet" "~" (at 204.47 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1799b71c-8b37-4f36-ade4-2b803797a166))
-    (pin "2" (uuid c9c22795-49cd-4a27-8fcd-619493458e38))
+    (property "JLCPCB" "C13585" (at 204.47 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 204.47 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ddf91cf9-28e0-4f64-9399-77b71cff51a7))
+    (pin "2" (uuid 5f422f0c-2f42-496c-8ba1-83f0b6bdbae2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9411,8 +9924,14 @@
     (property "Datasheet" "~" (at 368.3 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 77543b96-8f44-4ecf-b93b-efe668815aa6))
-    (pin "2" (uuid 3444af23-ef75-41a3-8ee7-9357024f571e))
+    (property "JLCPCB" "C13585" (at 368.3 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 368.3 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 89183eea-61a8-401c-9259-957999d2e21a))
+    (pin "2" (uuid 709d9038-066e-436c-8dda-6c3a4831bf81))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9440,7 +9959,7 @@
     (property "Datasheet" "" (at 160.02 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbbd7aef-3354-4740-b637-902c6b0f2475))
+    (pin "1" (uuid 294cad3d-6428-4eb8-a0f9-7183e261ef24))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9468,8 +9987,14 @@
     (property "Datasheet" "~" (at 149.86 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3ed3b66-d82c-4644-9cc0-f286add88745))
-    (pin "2" (uuid 522f93a9-b407-4657-972b-06d3e98054d2))
+    (property "JLCPCB" "C13585" (at 149.86 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 149.86 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 94de6b4c-3b68-4070-a6ca-902c5d17ed4b))
+    (pin "2" (uuid 0764ec22-344b-46d6-aa91-7fd1e42d0d6c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9500,8 +10025,11 @@
     (property "JLCPCB" "C242335" (at 90.17 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5fb96f71-9aab-4cf9-8e15-1b5657b34971))
-    (pin "2" (uuid 9a4dfa84-502b-466e-8ffd-3a3ecf3e7773))
+    (property "LCSC Part" "C242335" (at 90.17 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8018833a-657c-4e16-ab75-7682506c56c6))
+    (pin "2" (uuid 0aa65172-7f40-4577-9d81-bfc07467bc3c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -9535,14 +10063,17 @@
     (property "Field6" "" (at 83.82 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b1d4cbf-178a-468a-9553-14f2d787f437))
-    (pin "2" (uuid 612cfc88-a522-454f-b048-e6c5b7b0dfa7))
-    (pin "3" (uuid cb9f50f5-580f-43f9-86f4-46a5554b9769))
-    (pin "5" (uuid f8e56e44-4a6c-4ba7-9098-94d0675f3e18))
-    (pin "6" (uuid 54f80982-67c2-4d0b-971b-852b2a86fa0b))
-    (pin "7" (uuid 2a4bd0b5-2e1a-4e90-a0c5-a13191e6d82e))
-    (pin "4" (uuid 641f9605-8b52-43df-8abe-7590449b5295))
-    (pin "8" (uuid cc5f7778-87e4-4a7a-8299-4250b03cc05a))
+    (property "LCSC Part" "C161797" (at 83.82 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dc586003-c8c6-41af-b1b7-256fd061531f))
+    (pin "2" (uuid 15feab3f-8b1b-414a-8801-7d1f8006c9a3))
+    (pin "3" (uuid 77598360-d4be-4e32-8e86-5c63e40e3a04))
+    (pin "5" (uuid 04852ef2-d13c-4772-844f-f0d230507e47))
+    (pin "6" (uuid c187f219-2f11-4eee-a8ea-f61abfe3a8d8))
+    (pin "7" (uuid d1ae5d74-2a58-43ed-8f82-7fde4d4e1918))
+    (pin "4" (uuid 77fca9f4-a2b5-4f48-832a-e7dcbc0cd0ef))
+    (pin "8" (uuid f56f6606-03be-45bd-91bf-e1b19a7f3780))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/83920463-7bb1-4088-aad8-702bcdea14ea"
@@ -9570,7 +10101,7 @@
     (property "Datasheet" "" (at 247.65 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1364b832-f47d-4fc7-bf3b-289587a46f10))
+    (pin "1" (uuid 4c66c35d-4c92-4355-b71d-3bcac65e68c5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9589,7 +10120,7 @@
     (property "Reference" "C3" (at 321.31 140.3413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 321.31 142.8813 0)
+    (property "Value" "100nF" (at 321.31 142.8813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 323.85 148.59 0)
@@ -9598,8 +10129,14 @@
     (property "Datasheet" "~" (at 323.85 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7806de13-9c06-477f-aba4-019c16d675b4))
-    (pin "2" (uuid 41f9acb9-b916-466b-b444-18d7839d38b2))
+    (property "JLCPCB" "C14663" (at 323.85 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 323.85 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7ce5bb35-85fd-49f7-a8c2-d3d05a9630ed))
+    (pin "2" (uuid 79afa4d9-c77f-4715-8dd3-8c3dbdbb767c))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9627,7 +10164,7 @@
     (property "Datasheet" "" (at 237.49 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d291b2ae-2ede-442d-89a1-e24eadbe24d4))
+    (pin "1" (uuid a0a4f63f-63a9-45d9-99ea-da087830dcf6))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9655,8 +10192,14 @@
     (property "Datasheet" "~" (at 353.06 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e5326d44-339f-4884-8fdc-cd8e990e0f24))
-    (pin "2" (uuid ddab1f3c-fbaf-434c-a529-27ff2dec8f81))
+    (property "JLCPCB" "C13585" (at 353.06 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 353.06 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5619a266-6139-46a0-9f2b-f930f38a46cd))
+    (pin "2" (uuid f645d463-11d7-4cbd-ac2e-9a0e96808170))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9684,7 +10227,7 @@
     (property "Datasheet" "~" (at 55.88 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid be078b0e-e572-42f8-86dd-fc3c817c9622))
+    (pin "1" (uuid a40d82dd-c9f0-47f4-b40f-2cccad4c03fa))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -9709,7 +10252,7 @@
     (property "Datasheet" "" (at 191.77 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21493e83-5494-44ef-9c7c-7f058b2322f5))
+    (pin "1" (uuid 3e6e2e18-990b-4ea0-afc4-d60eb66a29cf))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9737,8 +10280,14 @@
     (property "Datasheet" "~" (at 121.92 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f0317a4-6ba3-4cdd-8bb2-21578e04df27))
-    (pin "2" (uuid 72feb94d-6e9b-44e8-b04f-ca5f1f514ab2))
+    (property "JLCPCB" "C2831718" (at 121.92 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 121.92 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c3218a86-feab-47f4-9be1-0f819f84730f))
+    (pin "2" (uuid 374790f8-e9a7-4fa7-89c0-439981c465a1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9766,7 +10315,7 @@
     (property "Datasheet" "" (at 219.71 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 51fddef1-6597-48bc-a266-40adf6eefeee))
+    (pin "1" (uuid 1439bf03-9136-4773-a478-cb6893133ec2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9794,8 +10343,14 @@
     (property "Datasheet" "~" (at 364.49 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b6d10e6b-9924-49a5-8e35-63b99129b49a))
-    (pin "2" (uuid 1e2012aa-a69a-4062-9629-e14ec497cc87))
+    (property "JLCPCB" "C13585" (at 364.49 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 364.49 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5b52b703-dc23-4b24-8911-9d70aef165c6))
+    (pin "2" (uuid f3304dc2-6d19-467a-850d-427dd6338ca4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9823,7 +10378,7 @@
     (property "Datasheet" "~" (at 85.09 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34177612-45f3-485d-8ac5-067d61c381f4))
+    (pin "1" (uuid 2d6708f3-af86-4f12-8b61-4e44ce7189ed))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -9848,7 +10403,10 @@
     (property "Datasheet" "~" (at 383.54 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 60f464a2-54e8-40d6-a404-7512baa137c9))
+    (property "LCSC Part" "" (at 378.46 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 81e323d9-0e46-4629-ac77-f13594714e1e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -9873,8 +10431,14 @@
     (property "Datasheet" "~" (at 295.91 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 11880b71-0fc0-41b8-abbb-a34d56d5c5ac))
-    (pin "2" (uuid da13b40b-a82c-40b4-abf6-f6f88ea011db))
+    (property "JLCPCB" "C13585" (at 295.91 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 295.91 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 126c474a-8a2a-4fb2-beb9-a6af093f4d45))
+    (pin "2" (uuid 28114101-e36f-4462-9179-83121f0c6de7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9902,8 +10466,14 @@
     (property "Datasheet" "~" (at 100.33 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4ae6bc7-6824-4202-900f-7290ede6aac5))
-    (pin "2" (uuid 53ef0679-9a41-4256-bec9-b97f137e2d25))
+    (property "JLCPCB" "C13585" (at 100.33 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 100.33 43.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0d8af051-6637-4be1-a13a-fd9bc1973401))
+    (pin "2" (uuid f9f08143-38b5-43e8-a4e7-512a56c5a6ae))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9931,8 +10501,14 @@
     (property "Datasheet" "~" (at 358.14 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9cde33aa-c552-4cb1-8889-dc8b58a2c3a5))
-    (pin "2" (uuid 606189f5-3534-4466-b740-6e96da330ff1))
+    (property "JLCPCB" "C13585" (at 358.14 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 358.14 148.59 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a2f4f6a1-4b45-45f8-bf17-b87e985f86ab))
+    (pin "2" (uuid e6ef0242-e1d0-4555-b44e-26f521dc8dbb))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9960,8 +10536,14 @@
     (property "Datasheet" "~" (at 181.61 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 92228697-6359-45e3-9dbc-162ec4ef98ae))
-    (pin "2" (uuid ba95a4fb-556f-445a-9286-928df6546ca6))
+    (property "JLCPCB" "C13585" (at 181.61 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 181.61 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7b92369f-91a5-4f0c-85b1-248cc59d6375))
+    (pin "2" (uuid 720c5508-e93f-4e18-8f06-6c7fc7de9efe))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -9989,7 +10571,7 @@
     (property "Datasheet" "" (at 300.99 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 10c1c502-fd71-4e25-9056-782506854768))
+    (pin "1" (uuid 779555b0-182e-43d6-baa8-0ec473207053))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10017,7 +10599,7 @@
     (property "Datasheet" "" (at 72.39 242.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 942efb3b-1350-416f-a539-e60c6f9ff914))
+    (pin "1" (uuid 3232b26c-2746-407e-a499-d0d289c530c1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -10042,8 +10624,14 @@
     (property "Datasheet" "~" (at 300.99 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6763a5d1-af7a-438a-8dce-8188c59b5d29))
-    (pin "2" (uuid 1ec6428f-d7c4-4663-9490-69911dc022b1))
+    (property "JLCPCB" "C13585" (at 300.99 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 300.99 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9c40cec2-c931-413c-92a9-02d385128c7b))
+    (pin "2" (uuid 386fce75-5ebe-4407-886a-46ade0130964))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10062,7 +10650,7 @@
     (property "Reference" "C47" (at 87.63 245.7386 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 87.63 248.2786 0)
+    (property "Value" "100nF" (at 87.63 248.2786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 90.17 246.38 0)
@@ -10071,8 +10659,14 @@
     (property "Datasheet" "~" (at 90.17 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6b8698d-029f-4c37-a7fc-184e98ac9281))
-    (pin "2" (uuid 263404b6-4ea0-4cb9-b317-f5876ebd86b5))
+    (property "JLCPCB" "C14663" (at 90.17 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 90.17 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 72fe7637-6d6b-4652-8708-b9d6c0cc8ed5))
+    (pin "2" (uuid 8fff7fae-3820-430e-b3c8-093504fe0608))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10106,8 +10700,14 @@
     (property "Datasheet" "~" (at 290.83 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 864f98e8-d72b-4c52-b7dc-19f5ca180036))
-    (pin "2" (uuid cda29bd7-14d3-4696-b1f7-e1e22ba79675))
+    (property "JLCPCB" "C13585" (at 290.83 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 290.83 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3cb037b5-75ea-497c-9e64-fd0a6bc297d3))
+    (pin "2" (uuid 02635444-4eb2-44f1-867a-0236a6998d26))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10126,7 +10726,7 @@
     (property "Reference" "C47" (at 78.74 245.7386 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 78.74 248.2786 0)
+    (property "Value" "100nF" (at 78.74 248.2786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 81.28 246.38 0)
@@ -10135,8 +10735,14 @@
     (property "Datasheet" "~" (at 81.28 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5a44108-b9a4-429a-98e0-9a2c7653c2f2))
-    (pin "2" (uuid 902e833b-8f52-4521-86e5-83d0e647075a))
+    (property "JLCPCB" "C14663" (at 81.28 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 81.28 246.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ace0d588-f054-4eae-9df9-2c5fac2d028b))
+    (pin "2" (uuid 0ca79a0c-d8ef-44a8-80ed-0daa191ec8c5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10170,7 +10776,7 @@
     (property "Datasheet" "" (at 154.94 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c51fdb7-021e-4543-bf5c-2a6eeafa3eed))
+    (pin "1" (uuid f86fb507-24b2-4a59-8660-317ba988102e))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10198,8 +10804,14 @@
     (property "Datasheet" "~" (at 311.15 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b3015d18-49dc-4d76-8b8d-02f7791bbce6))
-    (pin "2" (uuid 0dc79f91-8035-40ad-9d4b-f389aeabb27a))
+    (property "JLCPCB" "C13585" (at 311.15 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 311.15 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f6466239-25e2-421b-bf40-2ce340d0ae9a))
+    (pin "2" (uuid 68bad2b8-34fb-4196-80e5-0684e12785b8))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10218,7 +10830,7 @@
     (property "Reference" "C47" (at 130.81 244.4686 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 130.81 247.0086 0)
+    (property "Value" "100nF" (at 130.81 247.0086 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 133.35 245.11 0)
@@ -10227,8 +10839,14 @@
     (property "Datasheet" "~" (at 133.35 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9283654a-5ca9-40da-b60b-46f50fcccf40))
-    (pin "2" (uuid bf2c29f4-552c-4147-8f6e-a487111aa993))
+    (property "JLCPCB" "C14663" (at 133.35 245.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 133.35 245.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a6a970cc-1cf7-4031-bfe7-3e6d56eb007d))
+    (pin "2" (uuid 329c1c5a-3c29-48dc-8c14-1fa5b83c94e7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10262,7 +10880,7 @@
     (property "Datasheet" "" (at 336.55 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25032241-8115-4424-867d-b4523ae64e8c))
+    (pin "1" (uuid bb42b64e-cd0f-4e9f-a7ef-7e7d46a041b1))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10290,7 +10908,7 @@
     (property "Datasheet" "" (at 203.2 242.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58947341-abf7-4624-a4e5-6a4ad9928cf3))
+    (pin "1" (uuid 2455fe77-d559-448c-8d29-fc62d7313c2f))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10318,8 +10936,14 @@
     (property "Datasheet" "~" (at 227.33 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0b38287-0b16-4947-95ee-113bff3a0006))
-    (pin "2" (uuid 7a2a6d5a-5773-4258-a081-5f03fda243cb))
+    (property "JLCPCB" "C2831718" (at 227.33 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C2831718" (at 227.33 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fb493c6f-9a58-4399-9bf2-5544b86d05ee))
+    (pin "2" (uuid b2330e99-b1ad-4892-a3fa-ff4930e445f4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10350,8 +10974,11 @@
     (property "JLCPCB" "C242335" (at 175.26 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 22432824-0d75-4483-9fc2-42585d205334))
-    (pin "2" (uuid f141d180-2a5c-46fc-8488-81a37db9fc15))
+    (property "LCSC Part" "C242335" (at 175.26 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid de24eea5-43fc-4c8a-be7c-d5fefc5eecc9))
+    (pin "2" (uuid e0a82ed9-7978-4191-8305-a2c44f459b62))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -10376,8 +11003,14 @@
     (property "Datasheet" "~" (at 237.49 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8d18d435-21ca-4cc8-9992-1076d5de28e3))
-    (pin "2" (uuid 522d8984-c8f6-440c-94f6-d9d9ce1ccdd4))
+    (property "JLCPCB" "C13585" (at 237.49 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 237.49 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ed8b43eb-f5c2-493c-af46-2fd7becb8d55))
+    (pin "2" (uuid 2f7d9b6a-3bc2-4298-ae9b-98a2f1345277))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10411,14 +11044,17 @@
     (property "Field5" "" (at 130.81 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 17784fba-a03b-4832-9773-fac698624cf5))
-    (pin "2" (uuid 223ff07d-9fad-449c-972b-a8fe537d47b5))
-    (pin "3" (uuid 4277e567-140e-4864-a4d5-16fb13e52148))
-    (pin "5" (uuid c2ac9bcf-ec1b-4b9c-ae19-a634d190b605))
-    (pin "6" (uuid f5ec58d0-233a-4771-b979-7e082f3c9c1c))
-    (pin "7" (uuid eee4d22b-be46-4812-b593-42dc375df004))
-    (pin "4" (uuid a163aaa2-8acf-452e-b97d-a112384125f1))
-    (pin "8" (uuid 209f2a82-1984-4f31-a50d-b77fb534c0d6))
+    (property "LCSC Part" "C161797" (at 130.81 233.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0b295722-d611-4313-9573-0b0d34a7fc86))
+    (pin "2" (uuid 447d10de-82c8-4bfc-91bd-c4fddaa6087a))
+    (pin "3" (uuid 4fadc037-3eba-44a5-88c3-7d1400d5ea45))
+    (pin "5" (uuid 1af89296-7b0a-456f-96f0-eb690f1aa51c))
+    (pin "6" (uuid 52d1856b-6447-499d-83f8-5f6e9c3591db))
+    (pin "7" (uuid b5424922-a8a5-424b-85ed-a14e473aa56b))
+    (pin "4" (uuid 98d98921-d3bb-49de-8b7b-635dd476f2a9))
+    (pin "8" (uuid a0173020-afa1-4959-9c68-523a942218ac))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10449,7 +11085,7 @@
     (property "Datasheet" "" (at 237.49 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c42c61a-b618-4f27-a50e-cbf6eb072a2e))
+    (pin "1" (uuid e2243988-3fd4-4252-bd8a-720a160746cd))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -10477,7 +11113,7 @@
     (property "Datasheet" "" (at 236.22 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 141727ae-eff4-4f75-8be0-1d2657146f1c))
+    (pin "1" (uuid a2cc936a-16a7-44a8-ab81-8e40ca9ac907))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10496,7 +11132,7 @@
     (property "Reference" "C47" (at 78.74 222.8786 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100n" (at 78.74 225.4186 0)
+    (property "Value" "100nF" (at 78.74 225.4186 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 81.28 223.52 0)
@@ -10505,8 +11141,14 @@
     (property "Datasheet" "~" (at 81.28 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5818a68b-5465-46ff-af6e-e3d101a163ae))
-    (pin "2" (uuid 8232b6f7-a787-49ea-886f-c97e1abcd3f5))
+    (property "JLCPCB" "C14663" (at 81.28 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C14663" (at 81.28 223.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 90a682a7-ba02-4d3a-97af-570db039069d))
+    (pin "2" (uuid 550ea52a-ebaf-4c88-9c25-2333753b97c4))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10540,7 +11182,7 @@
     (property "Datasheet" "" (at 373.38 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86f81948-3277-4b37-ab82-f444e0d3e407))
+    (pin "1" (uuid eddf79ba-5454-4f4d-b7e0-a480078ef48a))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -10565,7 +11207,7 @@
     (property "Datasheet" "" (at 181.61 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8f91ebf3-95fb-4749-9706-d92015055f9b))
+    (pin "1" (uuid 1d62bf90-9042-462f-8d9c-4e5fd452a4a2))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10593,16 +11235,19 @@
     (property "Datasheet" "https://jlcpcb.com/partdetail/DexuElectronics-URB2405S6WR3/C969036" (at 176.53 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "JLCPCB" "C969036" (at 149.86 40.64 0)
+    (property "JLCPCB" "C969046" (at 149.86 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ab9cabd4-cc08-48ae-97fe-b5cd5ab4fda4))
-    (pin "2" (uuid 8888f5d6-db8d-4638-a2c4-aef89dc5ad2d))
-    (pin "3" (uuid 9606be2b-57a0-4d61-b45f-a4054f5f4dac))
-    (pin "5" (uuid 70f9edd8-25f1-4276-85a8-7c7b34621192))
-    (pin "6" (uuid b651780f-50e0-4d41-bac9-c62c4d27fde9))
-    (pin "7" (uuid fcbda1d8-1836-4e62-bcf8-ba3af0ea7988))
-    (pin "8" (uuid 48ea932b-6cfb-4045-85f3-ced991379a82))
+    (property "LCSC Part" "C969046" (at 149.86 40.64 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0bc8ac2c-27c6-4821-bfa6-271afd8697d1))
+    (pin "2" (uuid bfe5fbe8-166f-46fb-97b0-4c57e6ef5094))
+    (pin "3" (uuid a78ec0a6-8b07-43f6-ad67-f7e746b07a0d))
+    (pin "5" (uuid 462ccee8-6238-4418-b9c2-0d3a1d5daef9))
+    (pin "6" (uuid 0c997225-6a88-4785-8a1d-986eeda5911e))
+    (pin "7" (uuid ac6fc5c5-6605-43d0-9995-d108d69d31cf))
+    (pin "8" (uuid 30f3c552-a5ad-4f8f-baf2-fc1f51395b98))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/2eb2ee8f-ab98-4666-97f0-bfacb073bc88"
@@ -10627,8 +11272,14 @@
     (property "Datasheet" "~" (at 160.02 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7e013855-99a1-4b3c-b738-368794f398b4))
-    (pin "2" (uuid 21ed31d2-dcef-45d0-a94b-d4216d4a1dd2))
+    (property "JLCPCB" "C13585" (at 160.02 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 160.02 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dbf31bff-2381-4669-b98d-e68365fc17e0))
+    (pin "2" (uuid d2536a9e-3c42-4298-aee5-cf4d9ce0b4c5))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10656,8 +11307,14 @@
     (property "Datasheet" "~" (at 247.65 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid caafbfa1-34ba-47df-a3ca-9c0feaf138e7))
-    (pin "2" (uuid 6af149ff-660c-448a-9f8f-269e6b5c490b))
+    (property "JLCPCB" "C13585" (at 247.65 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 247.65 113.03 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 93d211d4-32b5-43f1-b125-262e0a7c7e8b))
+    (pin "2" (uuid 61d87406-1677-469e-948a-30e1accb45c7))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10685,7 +11342,7 @@
     (property "Datasheet" "" (at 311.15 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2e906341-d296-4a97-bcbc-8ad96345b980))
+    (pin "1" (uuid f078da45-9046-4138-8680-de21989bc7dc))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10713,7 +11370,7 @@
     (property "Datasheet" "" (at 147.32 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e6b18f7e-4bc6-4848-b191-a6784e3eb796))
+    (pin "1" (uuid 0efb6f81-bd63-42a5-8fbc-460070a09383))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
@@ -10741,8 +11398,14 @@
     (property "Datasheet" "~" (at 354.33 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fee84b32-56fb-4146-8730-d004ad532938))
-    (pin "2" (uuid 1bb9f136-5ba2-427d-b434-405712a2a1fa))
+    (property "JLCPCB" "C13585" (at 354.33 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part" "C13585" (at 354.33 66.04 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 834535c8-ca8a-4497-ad9e-5e63a8f58e43))
+    (pin "2" (uuid 7d2fb0da-b40f-418a-b05c-d7d8005691bb))
     (instances
       (project "stm_audio_board_V3"
         (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"

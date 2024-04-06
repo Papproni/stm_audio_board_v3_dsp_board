@@ -1,1 +1,8 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
+"J18","Conn_01x16_ILI9341","PinHeader_1x16_P2.54mm_Vertical",-53.474000,31.354400,180.000000,bottom
+"RV1","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-66.536405,20.045357,90.000000,bottom
+"RV2","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-96.536405,20.045357,90.000000,bottom
+"RV3","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-126.536405,20.045357,90.000000,bottom
+"RV4","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-66.282405,-6.987681,90.000000,bottom
+"RV5","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-96.282405,-6.987681,90.000000,bottom
+"RV6","R_Potentiometer","Potentiometer_Alps_RK09L_Single_Vertical",-126.282405,-6.987681,90.000000,bottom
