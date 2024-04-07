@@ -8715,6 +8715,34 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 400.05 74.93 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ec4bd16e-38db-4fb1-a6ab-11fe3d4c881a)
+    (property "Reference" "#PWR09" (at 400.05 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 400.05 80.01 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 400.05 74.93 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 400.05 74.93 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 158d6064-4746-4f57-a047-dc44c45e168e))
+    (instances
+      (project "stm_audio_board_V3"
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71"
+          (reference "#PWR09") (unit 1)
+        )
+        (path "/6997cf63-2615-4e49-9471-e7da1b6bae71/51aec99e-3301-49b6-8e7f-31ba63a05d64"
+          (reference "#PWR043") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+3.3V") (at 419.1 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f3c05d4b-9eeb-4925-8eb4-165dfd72ff3c)
