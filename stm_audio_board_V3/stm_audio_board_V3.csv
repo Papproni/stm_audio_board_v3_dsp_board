@@ -12,14 +12,15 @@ Comment,Designator,Footprint,LCSC Part #
 "33nF Unpolarized capacitor, small symbol",C67,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C21117
 "10uF tantal Polarized capacitor, small US symbol",C80,CP_EIA-3216-18_Kemet-A,C7171
 "20pF Unpolarized capacitor, small symbol","C203,C204",C_0402_1005Metric,C1554
+"1nF Unpolarized capacitor, small symbol",C229,C_Disc_D7.5mm_W5.0mm_P7.50mm,C2914877
 "1N5819 40V 1A Schottky Barrier Rectifier Diode, DO-41","D1,D4,D5,D6,D7,D8,D9,D12,D13,D14,D15,D16,D17,D18,D19,D20",D_SOD-323,C191023
 LED Light emitting diode,DISPLAY_OK1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2297
 LED Light emitting diode,DSP_OK1,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2297
 MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4,H5,H6",MountingHole_3.2mm_M3_DIN965_Pad,
 "External_POT Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J1,6.3_jack_new_ref,C309277
 "STlink_DSP Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x04_P2.54mm_Vertical,
+Barrel_Jack_Switch DC Barrel Jack with an internal switch,J3,BarrelJack_GCT_DCJ200-10-A_Horizontal,C3010533
 "Conn_01x02_i2c Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,PinHeader_1x02_P2.54mm_Vertical,
-Barrel_Jack_MountingPin DC Barrel Jack with a mounting pin,J5,BarrelJack_GCT_DCJ200-10-A_Horizontal,C3010533
 "AudioJack_LOOP1_SEND Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J7,6.3_jack_new_ref,C309277
 "AudioJack_LOOP1_RETURN Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J8,6.3_jack_new_ref,C309277
 "AudioJack_LOOP2_SEND Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J9,6.3_jack_new_ref,C309277
