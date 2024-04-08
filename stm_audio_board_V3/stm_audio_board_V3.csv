@@ -21,6 +21,7 @@ MountingHole_Pad Mounting Hole with connection,"H1,H2,H3,H4,H5,H6",MountingHole_
 "STlink_DSP Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x04_P2.54mm_Vertical,
 Barrel_Jack_Switch DC Barrel Jack with an internal switch,J3,BarrelJack_GCT_DCJ200-10-A_Horizontal,C3010533
 "Conn_01x02_i2c Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",J4,PinHeader_1x02_P2.54mm_Vertical,
+USB_C_Receptacle_USB2.0 USB 2.0-only Type-C Receptacle connector,J5,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C393939
 "AudioJack_LOOP1_SEND Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J7,6.3_jack_new_ref,C309277
 "AudioJack_LOOP1_RETURN Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J8,6.3_jack_new_ref,C309277
 "AudioJack_LOOP2_SEND Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched TR Poles (Normalling)",J9,6.3_jack_new_ref,C309277
@@ -33,7 +34,6 @@ Barrel_Jack_Switch DC Barrel Jack with an internal switch,J3,BarrelJack_GCT_DCJ2
 "Conn_01x10_Footswitch Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",J17,IDC-Header_2x05_P2.54mm_Vertical,C5665
 "Conn_01x16_ILI9341 Generic connector, single row, 01x16, script generated (kicad-library-utils/schlib/autogen/connector/)",J18,PinHeader_1x16_P2.54mm_Vertical,
 10uH Inductor,"L1,L2,L3,L4,L5,L6,L7,L8",L_Sunlord_SWPA6020S,C242335
-USB_C_Plug_USB2.0 USB 2.0-only Type-C Plug connector,P1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C393939
 "URB2405S-6WR3 XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Single Output Voltage 15V, ±400mA, 24V Input Voltage, SIP",PS1,Converter_DCDC_XP_POWER-ITxxxxxS_THT,C969046
 "WRA2412S-3WR2 XP Power 6W, 1000 VDC Isolated DC/DC Converter Module, Dual Output Voltage ±12V, ±250mA, 24V Input Voltage, SIP",PS2,Converter_DCDC_XP_POWER-ITxxxxxS_THT,C5369662
 10k Resistor,"R1,R18,R75,R78,R80,R82",R_0603_1608Metric,C25804

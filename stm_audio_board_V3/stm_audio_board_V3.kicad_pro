@@ -62,14 +62,12 @@
         }
       ],
       "drc_exclusions": [
-        "annular_width|50546000|132842000|d005d178-f63d-4153-8eef-0306bcf93522|00000000-0000-0000-0000-000000000000",
-        "annular_width|50546000|139446000|b536e3c5-020a-4e82-88d6-895ab03eb3b8|00000000-0000-0000-0000-000000000000",
-        "hole_clearance|48932000|132875000|164b22fd-97b4-4448-8935-40278f7cba58|498cb8fd-8334-4d8b-a043-bea6b5cd728f",
-        "hole_clearance|48932000|133175000|164b22fd-97b4-4448-8935-40278f7cba58|1c8469eb-67d8-48f0-b990-b28c29b5b0b9",
-        "hole_clearance|48932000|133375000|164b22fd-97b4-4448-8935-40278f7cba58|749f78f7-5519-40b0-9b15-86d6be6d92df",
-        "hole_clearance|48932000|138775000|e25de6fd-9307-4e48-b58f-9c138a762a3b|2142527c-8ef0-4daf-97a7-bd16ba4a6da9",
-        "hole_clearance|48932000|138975000|e25de6fd-9307-4e48-b58f-9c138a762a3b|d8f1e404-1cae-42e0-bf3a-f6e232540b2e",
-        "hole_clearance|48932000|139275000|e25de6fd-9307-4e48-b58f-9c138a762a3b|c32dc6e4-adda-4a30-b64a-f08cdd2a7375",
+        "hole_clearance|46440000|132875000|667de4c2-be86-4ffe-a0b4-9da5f1fd979f|242aa0d6-6619-46c3-80b9-325311568903",
+        "hole_clearance|46440000|133175000|667de4c2-be86-4ffe-a0b4-9da5f1fd979f|a665fb9d-2a85-4209-aed0-e85537c6c885",
+        "hole_clearance|46440000|133375000|667de4c2-be86-4ffe-a0b4-9da5f1fd979f|da353384-2585-4dbc-b051-2059301411f1",
+        "hole_clearance|46440000|138775000|4beb9d94-2334-4992-9aaf-5052e24c52b1|fe47467c-6cc2-45e5-a530-4645b5aaa9f3",
+        "hole_clearance|46440000|138975000|4beb9d94-2334-4992-9aaf-5052e24c52b1|238191ae-d77f-4272-a1eb-6e9d4c3dce7d",
+        "hole_clearance|46440000|139275000|4beb9d94-2334-4992-9aaf-5052e24c52b1|35f085e8-1755-498a-8006-8c3f34b4d09f",
         "items_not_allowed|60301445|64867886|93b36579-a082-4294-827b-7916b7d74b62|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
@@ -134,16 +132,16 @@
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.26,
         "min_hole_to_hole": 0.5,
-        "min_microvia_diameter": 0.254,
+        "min_microvia_diameter": 0.44999999999999996,
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.15,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.127,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.15,
+        "min_via_annular_width": 0.075,
+        "min_via_diameter": 0.3,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
@@ -194,11 +192,11 @@
         0.0,
         0.0,
         0.0,
-        0.0,
         0.001,
         0.0254,
         0.127,
         0.3048,
+        0.44958,
         0.508,
         0.635,
         0.762,
@@ -214,8 +212,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.35,
-          "drill": 0.2
+          "diameter": 0.45,
+          "drill": 0.3
         },
         {
           "diameter": 0.8,
@@ -460,14 +458,14 @@
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.127,
         "line_style": 0,
-        "microvia_diameter": 0.15,
+        "microvia_diameter": 0.29,
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
-        "via_diameter": 0.2,
-        "via_drill": 0.15,
+        "via_diameter": 0.5,
+        "via_drill": 0.29,
         "wire_width": 6
       }
     ],
@@ -480,11 +478,11 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "stm_audio_board_V3.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../../../../Users/pappr/OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem/Tanulas/___BME 10. félév/Dipterv 1/CAD/stm_audio_board_V3.step",
+      "step": "../../../../../../../../Users/pappr/OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem/Tanulas/___BME 10. félév/Dipterv 1/stm_audio_board_V3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
